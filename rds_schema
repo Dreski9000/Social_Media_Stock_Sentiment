@@ -15,3 +15,9 @@ create table ticker_sentiment(
 	neg_count int
 );
 
+create table comments_posts(
+	date date,
+	body varchar,
+	username varchar(20),
+	subreddit varchar
+);
