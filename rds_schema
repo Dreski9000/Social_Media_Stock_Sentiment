@@ -1,0 +1,23 @@
+CREATE TABLE stock_history(
+	date date,
+	Open float,
+	High float,
+	Low float,
+	Close float,
+	Volume float,
+	Ticker varchar(5)
+	
+);
+create table ticker_sentiment(
+	date date,
+	Ticker varchar(5),
+	pos_count int,
+	neg_count int
+);
+
+create table comments_posts(
+	date date,
+	body varchar,
+	username varchar(20),
+	subreddit varchar
+);
