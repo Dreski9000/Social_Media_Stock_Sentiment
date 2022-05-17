@@ -1,0 +1,27 @@
+,date,body,username,subreddit,Unnamed: 0
+0,2018-01-10,Just goes to prove that all those soy-boy nu-males obsessed with tech are just blind dumbasses with no jaw line and no intelligence,uneven_toes,wallstreetbets,0.0
+0,2018-04-02,"&gt;market rockets 33%
+
+it’s cuz the economy!
+
+&gt;market pulls back 10%
+
+it’s cuz drumpf!
+
+i’m losing money in the market too, but watching a bunch of nu-males throw a tantrum on a satire trading subreddit makes it all worth while",memogate_trump2020,wallstreetbets,0.0
+0,2018-04-12,"Herbalife is not unique. There are lots of other companies that operate in the same way, like Nu Skin, Primerica, Amway...etc.
+
+Unethical industry? Definitely.
+
+Doomed? Not necessarily.",OstentatiousDude,wallstreetbets,0.0
+0,2018-05-03,"Unlike COD and Overwatch, Fortnite is free to play witch means every kid ever will play it witch witch leads to a steady decline in sale for other games. Epic Games is also way better at making kids spend a bunch of money on in-game shit. They also have fewer employees and less maintenance costs for their games.
+
+Meanwhile Activision have nu clue how to adapt to the market and been actively fucking up their well established brands for a pretty long time. The new World of Warcraft expansion being released this fall is basically guaranteed to print them money for a while though but I won’t be holding shit until then.",Dampbarn,wallstreetbets,0.0
+0,2018-06-04,Can confirm: I sort by Nu.,DownvoteToKarmaHell,wallstreetbets,0.0
+0,2018-06-07,nu uh,cleveland3366,wallstreetbets,0.0
+0,2018-07-12,Nu-metal was meta-tier in 2003.,SEIGOF_KONN,wallstreetbets,0.0
+0,2018-09-09,Ok we can call the category Nu Nicotine.,SEIGOF_KONN,wallstreetbets,0.0
+0,2018-11-01,"Damrakweddenschappen en kon Adyen niet vinden, maar nu wel!",Prins_Pils,wallstreetbets,0.0
+0,2018-12-02,"Here's a LaTeX which visually represents part of a model. I'm getting close to secrets here.
+
+\documentclass{article} \usepackage{tikz,amsmath} %\usepackage{siunitx} \usetikzlibrary{arrows,snakes,backgrounds,patterns,matrix,shapes,fit,calc,shadows,plotmarks} \usepackage[graphics,tightpage,active]{preview} \PreviewEnvironment{tikzpicture} \PreviewEnvironment{equation} \PreviewEnvironment{equation*} \newlength{\imagewidth} \newlength{\imagescale} \pagestyle{empty} \thispagestyle{empty} \usepackage{standalone} \begin{document} \begin{tikzpicture} \tikzstyle{main}=[circle, minimum size = 10mm, thick, draw =black!80, node distance = 16mm] \tikzstyle{hyparam}=[rectangle, minimum size = 5mm, thick, draw =black!80, fill = black!10, node distance = 16mm] \tikzstyle{param}=[rectangle, minimum size = 5mm, thick, draw =black!80, node distance = 16mm] \tikzstyle{connect}=[-latex, thick] \tikzstyle{selector}=[-latex, -|, snake=snake,segment amplitude=.4mm,segment length=2mm,line after snake=1mm, thick] \tikzstyle{shortconnect}=[-latex, thin] \tikzstyle{box}=[rectangle, draw=black!100] \tikzstyle{switch}=[circle, minimum size = 1mm, fill = black!100, draw=black!100] \node[hyparam] (beta) [label=below:$\beta$] { }; \node[main] (phi) [right of=beta,label=below:$\boldsymbol\phi$] {[K]}; \node[main] (z) [right of=phi,label=below:$z_i$] {K}; \node[main] (mu) [above of=phi,yshift=10mm, label=below:$\mu_k$] { }; \node[main, fill = black!10] (x) [right of= z,label=below:$x_i$] { }; \node[main] (sigma) [above of=z,yshift=10mm, label=below:$\sigma_k^2$] { }; \node[hyparam] (nu) [above of=sigma, label=$\nu$] { }; \node[hyparam] (sigma0) [right of=nu, label=$\sigma_0^2$] { }; \node[hyparam] (lambda) [above of=mu, label=$\lambda$] { }; \node[hyparam] (mu0) [left of=lambda, label=$\mu_0$] { }; \path (beta) edge [connect] (phi) (phi) edge [connect] (z) (z) edge [selector] (x) (mu) edge [connect] (x) (sigma) edge [connect] (mu) (sigma) edge [connect] (x) (nu) edge [connect] (sigma) (sigma0) edge [connect] (sigma) (lambda) edge [connect] (mu) (mu0) edge [connect] (mu); \node[rectangle, inner sep=0mm, fit= (z) (x),label=below right:N, xshift=9mm] {}; \node[rectangle, inner sep=4.4mm,draw=black!100, fit= (z) (x), xshift=1mm] {}; \node[rectangle, inner sep=2mm, fit= (mu) (sigma),label=below right:K, yshift=-2mm, xshift=11mm] {}; \node[rectangle, inner sep=6.4mm,draw=black!100, fit= (mu) (sigma), yshift=-2mm, xshift=3mm] {}; \end{tikzpicture} \end{document}",n00body333,wallstreetbets,0.0

@@ -1,0 +1,680 @@
+,date,body,username,subreddit,Unnamed: 0
+0,2019-01-01,"Hi hi. I’m a noob too! I’ll attribute the bulk of my success to luck (and not having full-blown autism)
+
+I buy plain vanilla calls/puts, no complicated option strategies.
+
+The DTE depends on a few things for me:
+1. Do I have daytrades available? If yes, I can consider same day expiring options.
+2. Is there a clear tradable pattern? If yes, is it intra-day or multi-day? If it’s intra-day, can consider same day expiring options and can buy BIG (30% of account) for HUGE gains. Close trade as soon as the pattern isn’t going according to plan. If it’s a multi-day trend, can considering buying 3 to 7 trading days to expiry options. 
+3. How long can I stay awake? I’m day trading from outside the states and the stock market opens at 10:30pm on my side. I try to sleep by 2 or 3am so I don’t buy same-day expiring options and stay up to monitor it unless there’s a high chance it’s gonna be a winning trade.
+
+For winners, I hold until I no longer believe it’s going to go any higher any time soon. This can be 1 to 5 days. I monitor SPY along with 5 of the largest stocks in S&amp;P. The chart patterns in the 5 stocks can be indicative of how SPY will move.
+
+For losers, I don’t really hve a strategy. I will consult the charts and see if the original plan before entering the position is still valid. If it no longer is, then I’ll close it at a loss.
+
+The idea is to look for the multi-day trend I think. Let me explain:
+SPY is now in a multi-day uptrend which is in a multi-week/month downtrend. (Maybe read up on Elliot wave) So I won’t be buying puts. I will buy calls whenever the hourly trend is bearish and the candlesticks are at support. Since the market can be inexplicably erratic these days, I buy them 3 to 5 trading days out. I sell them on gapped up market opens when it seems like it’s not going to run much higher.",bumber123,wallstreetbets,0.0
+0,2019-01-05,"I sell .25-.30 delta PYPL calls on my shares around 30 DTE, long term I’m bullish on PYPL but it seems range bound so I’ll take my $800ish a month from the covered calls.",allianc4,wallstreetbets,0.0
+0,2019-01-09,"Thanks, im still experimenting with different dte",Zed_4,wallstreetbets,0.0
+1,2019-01-09,"Easy to keep track of, the puts I sell on the first Friday expire on the third Friday, and vice versa. Also, I find that the premium per DTE is best when the DTE is around 15.",MangoToothpaste,wallstreetbets,1.0
+0,2019-01-10,"Theta does not decay options in a strict linear pattern. If it has Theta of 10, it's no guarantee that it will actually lower in value by $10 per day, even if the price stayed the same. Theta seems to hit harder in the range from 45 DTE to 3 or 4 DTE. It's just an average.
+
+The other primary factor in pricing is volatility. And lastly, you have the free market as well. I can't say for sure what caused the fluctuations in yours. Occasionally, the underlying can move up or down, but you don't always see the derivatives change as equally as you'd expect, especially the deeper OTM they are. ",ThetaHunter,wallstreetbets,0.0
+0,2019-01-10,Nice. What DTE you playing? Prolly just going to buy a QQQ straddle for the liquidity. Played an AMD straddle yesterday and the spread is kind of annoying.,Guest8967,wallstreetbets,0.0
+0,2019-02-02,"Have a heart! February is XIV history month; going long vol is deeply offensive.
+
+Instead, every day this month, show your support for Credit Suisse by writing a few 0.5 delta 2-10 DTE UVXY calls.",ProperlyFittedPants,wallstreetbets,0.0
+0,2019-02-04,"This can be mathematically determined.  Generally, 45 DTE is the ideal number.
+
+&amp;#x200B;
+
+[https://www.tastytrade.com/tt/shows/options-jive/episodes/30-days-of-theta-11-14-2016](https://www.tastytrade.com/tt/shows/options-jive/episodes/30-days-of-theta-11-14-2016)",btcmaster2000,wallstreetbets,0.0
+1,2019-02-04,TastyTrade tells you 60-45 DTE. I prefer 1 week and letting them expire,TheRealNiBi,wallstreetbets,1.0
+2,2019-02-04,"I far prefer selling cash-secured puts because you aren't exposed to the equity. Look into it.
+
+As for DTE I like 1 week or 2 weeks because the theta ramps up. Plus my position is open for a shorter and more manageable amount of time.",chasehilton,wallstreetbets,2.0
+0,2019-02-06,"Theta decay is just about gone, both due to being 2 DTE and (now) ITM. ",All_Work_All_Play,wallstreetbets,0.0
+0,2019-02-07,"They are not at all the same risky, retarded plays.  99% of the risk in what you described is due to the fact its 2 DTE.",Fettywaap,wallstreetbets,0.0
+1,2019-02-06,Sit on my 30 DTE slightly bullish positions and watch that P/E slowly grow. We be breaking out mfs. ,spgvideo,wallstreetbets,1.0
+0,2019-02-08,"Please start drilling at open, I got 5 DTE on my long put. Also on my short puts so idk how I feel ",4dr14n,wallstreetbets,0.0
+0,2019-02-10,"Well you roll the option when it gets closer than 30 DTE out
+
+Basically, any individual day of theta is worth more in the 30-45 DTE range than the 0-7 DTE range, IV crush notwithstanding",FormalEnvironment,wallstreetbets,0.0
+1,2019-02-10,"I read that quite often, but I don’t understand it. If I add up the premium of 6 weeklies, it’s more than a single short option with 42 DTE.",asml84,wallstreetbets,1.0
+0,2019-02-11,"In a similar boat with 7,500. Lost during the same time period. If you’re gonna leverage with options, buy far out. That correction was too long for my DTE.",TheRealRap,wallstreetbets,0.0
+0,2019-02-13,Iron condors with the short strikes at .16 delta with about 45-60 dte are good. If you have enough of these positions on you can generate decent returns. Usually you want to close these when they reach 50% profit target. Iron butterflies are also good. ,heavenlyblues,wallstreetbets,0.0
+0,2019-03-05,How long of DTE would you be comfortable with when you gonna buy your options generally?,MrHazeem,wallstreetbets,0.0
+0,2019-03-05,DTE?,throwawaybadboy63,wallstreetbets,0.0
+0,2019-03-09,whats your delta and dte? You collect enough credit?,bigdeekman,wallstreetbets,0.0
+1,2019-03-09,"I pulled a u/stormwillpass 
+
+Wrote a 5 DTE IC only two points wide for 1.60 credit. And of course the VIX pops.",bigdeekman,wallstreetbets,1.0
+0,2019-03-12,DTE?,4dr14n,wallstreetbets,0.0
+1,2019-03-11,whats your DTE,bigdeekman,wallstreetbets,1.0
+2,2019-03-11,Strike price and DTE?,throwawaybadboy63,wallstreetbets,2.0
+0,2019-03-13,"* Dca upro, soxl and tqqq with stop loss. Adjust stop loss to 85% of current price once a month. Wait 2 weeks after stop loss triggered. Calls on big drop. Puts on big jump. 30% stop loss on options.
+
+* Really deep itm Leap on Spy and blue chip. 30% stop loss.
+
+* If 100 shares, sell 30 delta calls 45dte. Roll forward at 20 dte. ",techmonk123,wallstreetbets,0.0
+1,2019-03-12,"""30 delta call"" choose the call that has a delta of 30. It will be a higher strike price than the current share price.
+
+""45 DTE"" 45 days until expiration. between 45 days and 20 days until expiration short premium strategies have the best balance between theta decay and gamma (volatility) risk",collegefurtrader,wallstreetbets,1.0
+2,2019-03-12,I'm actually in a similar situation can you explain what delta calls at 45 dte is?,diego_tomato,wallstreetbets,2.0
+3,2019-03-12,Put it all in SPY. Sell 45 DTE calls at .3 Delta. Roll calls for profit at 50%. Repeat. ,kiltmann,wallstreetbets,3.0
+4,2019-03-12,"A serious answer- 2 ways you could play this.
+
+1: politely decline, explain that as a young ""investor"" your risk tolerance is much higher than their retirement portfolio and you do not know how to manage that money appropriately.
+
+2: Take the money, put it all in $SPY and sell 30 delta calls at 45 DTE, roll forward at 20 DTE. 
+
+Whatever you do don't 420 YOLO your parents money.",collegefurtrader,wallstreetbets,4.0
+0,2019-04-01,Sell an equal amount of put/calls one strike price above at the same DTE. it’ll lock it into a spread and secure 90% of profits ,Godmode92,wallstreetbets,0.0
+0,2019-04-03,$TSLA calls 45+ DTE,isdatgold,wallstreetbets,0.0
+1,2019-04-02,Yeah only SPX weeklies mostly. 0 or 1 DTE. I play individuals on Thursday AMC or Friday BMO earnings. ,cydworth,wallstreetbets,1.0
+0,2019-04-04,Are you picking different DTE and Strikes than before?,Northstat,wallstreetbets,0.0
+1,2019-04-03,"9.50 about 30 DTE. It was sitting at $10 just two weeks ago, so I'm not too worried.",mrpoopness,wallstreetbets,1.0
+0,2019-04-07,"The art of this is picking the right strike.  Popular thought is that selling the .3 delta and 30-45 dte is relatively ""safe.""
+
+In this crazy bullish market, you'd have to pick a fairly stable stock or write a further otm strike to capture more share price gains but less premium.
+
+Personally, I think writing options is a great strategy.  You just have to be comfortable for price increases passed your strike.",Momar11,wallstreetbets,0.0
+0,2019-04-07,What is the preferred chip company to slap in the sex boys? Buy .07 delta OTM calls 1 DTE. Literally can’t go tits up.,ienzc,wallstreetbets,0.0
+0,2019-04-08,"Holding those ACB calls and took the leap of faith on BBBY and SNAP.
+
+Is MSFT consolidating or something? I don't see anything in the news, it's been lagging behind SPY for a bit, and the only thing I can think of is it got overvalued last week. At any rate, plan is to hold until 60 DTE and sell it at whatever it's worth.",SentineL-EX,wallstreetbets,0.0
+0,2019-04-10,"Lol, that's what I figured. Hold until 1 dte and sell then.",Momar11,wallstreetbets,0.0
+0,2019-04-11,"Did a little bit of work on my model and decided to step back from 1 day forecasts two look at daily trends. So I changed my model to predict 10 steps ahead in daily time intervals using the past 5 years of historical data. If you have questions about the model look back in my comment history or post below. 
+
+Here are the results over the past ten weeks including a forecast of the next 10 days - [https://imgur.com/a/WYsEWTL](https://imgur.com/a/WYsEWTL)
+
+Obviously still not perfect but I think that it is much more reasonable then trying to predict the next day of price action. The shorter your time frame, the more stock prices appear to be a stochastic process, i.e., random walk. 
+
+Looking at the 5 period MA of the daily RSI on QQQ, total Exchange Call/Put ratio, and VIX call/Put ratio, I decided to open a short position in a selection of stocks with DTE from 30-60. I don't expect I prolonged down turn put I like to give myself time incase I am early. Right now I have, or looking to get this week, puts on PYPL, QQQ, NVDA, and CSCO, all ATM.",Nathan-T1,wallstreetbets,0.0
+1,2019-04-10,"Why I am loading the fuck up on 30-60 DTE ATM puts:
+
+Total Exchange Call/Put Ratio - [https://imgur.com/a/MAbTNlQ](https://imgur.com/a/MAbTNlQ)
+
+VIX Call/Put Ratio - [https://imgur.com/a/JaJ7DZA](https://imgur.com/a/JaJ7DZA)",Nathan-T1,wallstreetbets,1.0
+0,2019-04-11,"Thats really narrow for 43 DTE, you are getting about 0.47 in theta decay, while a short strangle gets 6.0 in theta decay for a $1200 bpr. I suggest you do a short stangle instead as you get about 6% more in theta decay.",manojk92,wallstreetbets,0.0
+1,2019-04-11,Ya my rule is absolute minimum 30 DTE unless there's an announcement that I'm sure of e.g. the last fed meeting,Hanz-Wermhat,wallstreetbets,1.0
+2,2019-04-11,"DAL &lt;3
+
+I think I'll definitely stick to 60+DTE options, earnings plays just aren't my forte. Going to sit on my 6/21 65's for a while",SentineL-EX,wallstreetbets,2.0
+0,2019-04-12,It's a Monday - won't be able to buy 1 DTE FDs.  Pass,miami92041,wallstreetbets,0.0
+1,2019-04-12,Small account is getting murdered this week yay. Throwing it all on 1 DTE SPY puts,CamNewtonCouldLearn,wallstreetbets,1.0
+2,2019-04-12,Timing is everything though. It’s the difference between 12x returns on a FD and a 12% returns on 60 dte spreads,4dr14n,wallstreetbets,2.0
+3,2019-04-12,"Positions :- 
+
+58 4/26 120 calls 
+
+1 119 O DTE 119 call.
+
+1 0 DTE NFLX put.",skothar,wallstreetbets,3.0
+0,2019-05-01,I was tryin to be smart at eod and bought some spy calls... not a disaster since they are 14 dte but I’m kind of questioning my thought process in hindsight,heavenlyblues,wallstreetbets,0.0
+1,2019-05-01,"So, at Charles Schwab, there is a glitch in their system that allows you to write a spread using the monthly SPX option and the weekly SPX option expiring same day.  For example, the 5/17 monthly and the 5/17 weekly.  Because the 5/17 weekly has a longer DTE technically you will ALWAYS have a credit.  
+
+The kicker?  Their system doesn't recognize them as two different kinds of options.  So, the 5/17 SPX monthlies are AM options and technically expire the night before... leaving you with a SHITTON of uncovered SPX 5/17 weeklies.",Xayde26,wallstreetbets,1.0
+2,2019-05-01,"Would definitely not get anything with less than 10 DTE, maybe some May 17 160s or 158s depending on how much risk you want. Right now I have 5/10 158s because I'm comfortable with the risk and am pretty confident in my model, will roll out if the market pops after FOMC.",Nathan-T1,wallstreetbets,2.0
+0,2019-05-03,Slightly OTM calls on MSFT with long DTE have been good moves over the past few years. I like this move.,federerhat,wallstreetbets,0.0
+1,2019-05-03,"Don't want to be a dick, but applying TA to VIX is probably the most retarded thing I've heard in a while. The VIX tracks the approximate implied volatility of roughly 30 DTE SPX options. Not sure RSI I will give you any interesting information, not that I don't think VIX will rise.",Nathan-T1,wallstreetbets,1.0
+2,2019-05-02,I usually go around 14 dte .25 delta,heavenlyblues,wallstreetbets,2.0
+0,2019-05-03,Naked? I look at credit spreads for 0 DTE and the credit is usually not worth it,jeffymcguffy,wallstreetbets,0.0
+1,2019-05-03,Damn regretting now buying 0 DTE calls at close yesterday,coconutpanda,wallstreetbets,1.0
+2,2019-05-03,Dude buy spy calls in the morning at 45 DTE,RUBA1YAT,wallstreetbets,2.0
+0,2019-05-07,"Usually you sell credit spreads 30-45 DTE out, so not the next day for this exact reason.
+
+If one side gets executed the other side will cover it for the cost of the difference between the strikes. It's unfortunate but at least your loss is defined so you can move on and make another trade.",onceuponathrow,wallstreetbets,0.0
+1,2019-05-06,"I'm waiting for someone to show up with like 2000% SPX 0 DTE call gains.
+
+Now next time we have a 2-3% drop pre-market I'm going to load up on zero day SPX calls and get annihilated as the shit does not recover.",Gahvynn,wallstreetbets,1.0
+0,2019-05-07,"Gonna see how we close, but looking to jump in to GOOG with 45-60 DTE.",Ircrixx,wallstreetbets,0.0
+0,2019-05-08,No moves all the time irregardless of when you purchased.. If you are long out DTE the iv crush shouldn't effect you as much for earnings,tyguy385,wallstreetbets,0.0
+1,2019-05-08,"LOL you have an option that has less than 30 DTE, volatility is definitely a problem buddy.",Kraka2,wallstreetbets,1.0
+2,2019-05-08,still got about 1k in value in my 9 DTE QQQ calls... wait to hear trade talk news or take the L and cash out?,iwanttendies,wallstreetbets,2.0
+0,2019-05-09,Try one contract first. Try to buy something .40 delta with at least 14 dte. Select an underlying with high liquidity... like NVDA. Close at either 40% up or cut loss at 30% down.,heavenlyblues,wallstreetbets,0.0
+0,2019-05-11,"No exit strategy entering a trade, but usually set one a day or so in. Never buy weeklies and settle on 30-75 DTE.",Scottie_Fuego,wallstreetbets,0.0
+1,2019-05-10,"Ah 0 DTE, crazy rebound, makes sense. Well played",blaked_baller,wallstreetbets,1.0
+0,2019-06-02,"MSFT.  30 or 20 delta.  Expiry up to you but common suggestion is 30-45 dte.
+
+I prefer weeklies for a slightly higher premium at greater risk of being called away... and it keeps the trigger finger at bay.
+
+Jedi contract bid plus azure growth is the DD.
+
+
+Earnings plays can be good but risky.  Consider buy-writes or spreads to collect premiums.
+
+Depending on account size, you may have to do more than one stock and or strike/expiry or else you could be all of the open interest.
+
+I wouldn't chase IV as it could go against you bigly and drop more than the premium you collect... especially with tariff man.
+
+
+You could further leverage doing a poor mans covered call strategy, but might be good to wait a bit for a further drop.",Momar11,wallstreetbets,0.0
+1,2019-06-02,"Jan 2020? Wtf no, sell shorter term, &gt;30-60 DTE",flyingmitchell3,wallstreetbets,1.0
+0,2019-06-02,SPX 0 dte,heavenlyblues,wallstreetbets,0.0
+0,2019-06-05,"Thanks for the valuable advice. I have been new to option trading and selling put/call spreads lately. Although most of the sources recommend selling the 30-60 day DTE options for the juicy premiums, I think under the current circumstances, a shorter time frame is safer since I like to go after the high IV stocks. 
+
+I will keep your words in mind and stay alert.",shinybenc,wallstreetbets,0.0
+1,2019-06-05,"Given the high volatility and the uncertainty of the current market, what DTE do you recommend for selling the option spreads?",shinybenc,wallstreetbets,1.0
+2,2019-06-05,"😎 Dont mind me, just sitting on my 0 DTE 278 spy puts sipping on dum fuc juice",Loobey13,wallstreetbets,2.0
+0,2019-06-06,Went all in on MU 1 dte itm puts. Wish me luck!,laser2ce,wallstreetbets,0.0
+0,2019-06-07,Since I blew up my account last week I couldn’t trade all week. Best thing that could’ve happened. I’d been waiting for new fund all week going crazy that I was missing out on the bounce. Finally the money hit my account this morning. I made 1 trade on FB. Bought 172.50 calls 0 dte 15 contracts. Closed them about an hour later for 125% gain. Small money but felt good. If I could just limit myself to a couple trades per week I think I would be much more successful. Wait for the right opportunity to present itself and not be greedy. I hope we can all identify these opportunities next week when the market open again. Take your time and form a strategy before going into next week and be ready to NOT take some trade you think you are missing out on.,heavenlyblues,wallstreetbets,0.0
+1,2019-06-07,"Lol! Broker just called me. I bought $1800 0 DTE AMZN puts today. I'm so used to losing way OTM, or selling for a profit before expiry, that I didn't even think about this, but she told me if I don't sell, and I end up ITM, it'll be auto-exercised. Lmfao, 100 shares of AMZN at $1800 fuuuuuck that. Told her I'm so used to losing big or winning big I've never been in this scenario and to please sell that shit asap.",vortex30,wallstreetbets,1.0
+2,2019-06-07,"The nice thing about gambling and losing 2k in a day on 0 DTE puts is that I will sleep soundly tonight, knowing that it's all over. Losing on weeklies is painful because day after day you hope and watch, lose sleep over it, then lose all your money on Friday after noon anyways.",vortex30,wallstreetbets,2.0
+3,2019-06-07,"Yes I know what a condor is, sold some on EWZ and SPY, closed for 25-50% max profit. sell only when iIVP&gt;75
+
+Buying pufs on a big upswing though, how’d you time that? and how many dte?",4dr14n,wallstreetbets,3.0
+0,2019-06-09,$2k weekly amzn call. shit moved exactly sideways right up to the expiration then took off like a rocket the following week. $2k down the toilet in 5 days. would have made a nice chunk had I bought with a little more DTE. Expensive lesson to learn.,jimmahtimmah,wallstreetbets,0.0
+0,2019-06-10,Shoulda sold my 0 DTE calls exactly 2 hours and 10 minutes ago,Loobey13,wallstreetbets,0.0
+1,2019-06-10,"lol
+
+im studying for my CFA so I stayed away from my account
+
+but i went to check it when i saw your DTE
+
+i got assigned too :)",crna__ruka,wallstreetbets,1.0
+2,2019-06-10,"Lucky you. My DTE was 2 months out with lots of extrinsic value left.  Didn’t matter, they still exercised, lol.",Theta_is_my_friend,wallstreetbets,2.0
+3,2019-06-10,"nope. the DTE is still 2 months for mine.
+
+there's still a lot of extrinsic value.
+
+don't think anyone will exercise yet.",crna__ruka,wallstreetbets,3.0
+0,2019-06-11,"Stop buying with so few dte, and you won’t find yourself in such dire straits",textandstage,wallstreetbets,0.0
+1,2019-06-11,Yes the closer DTE the faster it expires worthless.,iCCup_Spec,wallstreetbets,1.0
+2,2019-06-11,"After choosing your first option, you can select a different date for the second option. 
+
+e.g. select a OTM call to sell that's about 30 DTE, then before reviewing the trade, change the date and select a further OTM call to buy about 60 DTE. Robinhood will simply identify this as a 2-option order.",rbruba,wallstreetbets,2.0
+0,2019-06-12,"Classic won't move the needle much when it comes to share price.  The company needs a pretty major catalyst to break out of its 4-5 month range, especially for the Blizzard segment.  That likely won't come until Blizzcon in November where they are rumored to be announcing Diablo 4.  
+
+I'm going to look at 3-4 week DTE calls for November.",spoobydoo,wallstreetbets,0.0
+1,2019-06-12,aapl 200 calls just broke 100% profit at what point am I greedy? still have 37 DTE,iwanttendies,wallstreetbets,1.0
+0,2019-07-01,"Yes, pretty much.  I don’t let timeline towards DTE influence my P/L ranges.  If it’s a weekly and I’m 4 DTE having just entered traded, or a long dated put, 3 months out.  If I hit my ranges, I close the trade either way.  I think it’s a function of habit.  I’ve been trading option before weeklies were even a trading vehicle since 04/05 I think.  Been trading since early 90’s.",jetpocojet,wallstreetbets,0.0
+1,2019-07-01,"SPY skews negative (puts&gt;calls), I'm sure when you looked at it the price was slightly above 295.50 closer to 295.60 to get those premiums.  If you look at any further expiration and look at +-5 points (ones that aren't affected by high delta/gamma like your +-1 on 0 DTE) you can clearly see the skew is opposite of what you're claiming.",snipedagain,wallstreetbets,1.0
+2,2019-07-01,OTM monthlies at least 2-6 weeks DTE,ethbux1,wallstreetbets,2.0
+3,2019-07-01,"Selling 5 point wide spreads. So far it's been one of my best earners the last couple months, typically taking 1 to 1.3 dollar credit a piece, though usually cut that down and sell around 70%. 
+
+&amp;#x200B;
+
+Was tempted to sell the 165 or 170 at 40 DTE, but i've got too much on margin at the moment.",Mumbolian,wallstreetbets,3.0
+4,2019-07-01,How many DTE on most of your plays? What's the right length when it comes to Theta gang?,bf0111,wallstreetbets,4.0
+0,2019-07-02,Yikes. dte?,underwaterllama,wallstreetbets,0.0
+1,2019-07-02,"I go 5 wide or naked if it’s a stock I want to hold. 
+
+DTE varies. Won’t hold through earnings or any upcoming events usually. Usually around 30 days, but got a few that are 2 months due to events occurring around August.",Mumbolian,wallstreetbets,1.0
+0,2019-07-03,"Next time you find yourself in a similar situation you should play a bullish call spread. Buy a call at X premium, sell a call at a cheaper premium and use that to help fund the far out play. 45 days is a good rule of thumb and then closing by 21/15 dte. I would have done 45 days after the date they were supposed to deliver numbers so in case they miss you can still close out for something.",bf0111,wallstreetbets,0.0
+0,2019-07-05,"1. Follow the trend.
+2. If in the uptrend, BTFD on ATM calls 24 \~ 30 DTE, and keep rolling up if it's ITM when less than 14 days but don't add to the position.
+3. If in the down trend join the Theta gang.",OddSalary,wallstreetbets,0.0
+0,2019-07-06,Last BBBY earnings was terrible but there was some really fishy pumping the day of. After ER it dropped to prepump prices. I recommend any person playing BBBY to get 45 DTE options at least.,VioletMagician,wallstreetbets,0.0
+1,2019-07-06,"Either sell all/some of your position once you’ve hit your profit target, or if premiums are appealing, sell covered calls 30-45 dte against your shares to lock in gains (if your shares lose value, the call that you’re short will to, offsetting your losses). Rinse+Repeat.",textandstage,wallstreetbets,1.0
+0,2019-07-10,But you can buy 0 DTE options and not get fucked selling credit spreads,Necarad,wallstreetbets,0.0
+0,2019-07-12,"0 DTE SPY options.
+
+If we open lower than futures a few hours before, calls.
+
+If we open higher than futures of a few hours before, puts.
+
+Close it out when you’re 2x+ or crash and burn.",Gahvynn,wallstreetbets,0.0
+1,2019-07-11,Are you saying that with 21 DTE the loss wouldn’t be catastrophic if the price has moved against you?,tribecous,wallstreetbets,1.0
+2,2019-07-11,"Guessing it’s cause you could a 60-90 dte option a leap 🤣😂🤣
+
+Well, that, and the lack of truly fundamental options knowledge that your question implies.
+
+And the fact that your question is unanswerable, using only the data that you’ve provided.
+
+Basically, assuming you bought a call, your break-even will be the strike of your call, plus the premium you paid.
+
+Any more detail would require more information from you.
+
+As far as actually finding a buyer, 5 dte, if it’s in or at the money, that won’t be an issue.",textandstage,wallstreetbets,2.0
+3,2019-07-11,Sell ATM naked options 45 DTE. Take the trade off when it reaches 50% max profit or 21 DTE. Rinse and repeat. Literally can't go tits up.,careless223,wallstreetbets,3.0
+0,2019-07-12,"Here is example: 
+342 dte $70 Tesla put is going for 3.40.
+
+Takes $700, make $340 in a year or so, likely sooner, 94% pop, 96% pop50. Ask size 117 bid size 37.
+
+[Tesla put](https://imgur.com/a/OyUgAKZ) 
+
+All of these low put leaps have volume on Tesla.",Yarmoshy,wallstreetbets,0.0
+1,2019-07-12,"Gamma represents the rate of change between an option's delta and the underlying asset's price. After you pass the 21 DTE point gamma sharply increases and a small change in the underlying price can have a large effect on the options price. Holding after 21 days increases the risk of the position without significant (and proportional) increase in profit AKA: picking up pennies in front of a steam roller. 
+
+&amp;#x200B;
+
+I was halfway joking about selling naked ATM options. Only do this if you understand the risk of being in the naked position. It can absolutely go tits up fast.",careless223,wallstreetbets,1.0
+2,2019-07-12,"theta increases as you get closer to the expiration date. thus, at the end of an option's lifespan, it's value is equal to the premium. IIRC, 3 months out is when theta starts being something that matters and 45-15 DTE is 'maximum' theta decay compared to the tradeoff on volatility.",BellevueR,wallstreetbets,2.0
+0,2019-08-01,"yeah just got the notification.. sooo yeah, unless trumper dog messes with it. Personally im 30 dte on 33.50's. just got a little spicier",cluich1,wallstreetbets,0.0
+1,2019-08-01,"When the market is mooning, you hold some money back. Then when it falls, it’s time to buy.
+
+Blood on the streets, time to buy.
+
+I brought a bunch of stocks this afternoon, MSFT leaps were brilliant. Puts on UVXY, definitely. Don’t do FDs, have at least 30d DTE.
+
+If we are still bleeding tomorrow, time to double down and buy more. So long as (uh oh) the market recovers, it’s free money.
+
+The danger is it doesn’t. If this is Bloody May all over again, or worse, Red October, then the above is just gonna hemorage money, so you don’t burn it all. Once the real fall happens, you hold your cash, dump the stuff that was speculative, and ready those bonds.
+
+In awhile we hit bottom, then it’s buy in again. The time to buy is not in a bull, it’s in a bear. It’s free money. It’s just not FDs. You have to think long term.
+
+God I love MSFT leaps. Raking in the money. Every time it dips I buy more. I now have almost 1/3rd of my MSFT in leaps. They have between 300 to 500 dte. If msft isn’t at $150 in 500 days, the market is fucked.",NastyTrader,wallstreetbets,1.0
+0,2019-08-02,"0 DTE OTM SPX options.
+
+Win big or lose it all.",Gahvynn,wallstreetbets,0.0
+1,2019-08-02,"I tried that yesterday and the day before. I’m holding VXX puts that are increasingly red. I’m glad I have some reasonably far DTE, but still... I’ve closed the FDs for devastating loss.",NastyTrader,wallstreetbets,1.0
+2,2019-08-02,"Let’s say you think MU is done slipping.
+
+You write 30 August $42.5p and collect $150 per contract.
+
+You can write 145 of these, collect $21k in premium.
+
+Sure if MU goes under $42.50 between now and 30 August you get assigned at $42.50.  Shit, MU could drop to $40 so you insta lose $2.50 per share (150 contracts times 100 shares times $2.50 plus $21k in premium so lose ofr $16.5k ), so not really risk free, but relatively low risk.
+
+But if you keep the $21k, that is 3.5% off of $600k.  In a month.
+
+Will he win every month?  No, he’ll get assigned, and probably actually lose money maybe half the time, but it’s low risk compared with buying 0 DTE OTM options.",Gahvynn,wallstreetbets,2.0
+3,2019-08-02,The dumbass should of been writing 45 DTE .10 delta options for easy money,FOMOhomo,wallstreetbets,3.0
+0,2019-08-04,I went long .25 delta 14 dte VXX puts on Friday.,heavenlyblues,wallstreetbets,0.0
+1,2019-08-03,"Technically, calendar spread would be the same strike.  Diagonals would be more fitting of what you're describing. 
+
+In general though, if it goes against you, you can roll it down (for puts) and out for even or a credit given your long dte",Momar11,wallstreetbets,1.0
+0,2019-08-05,thanks for sharing. what's your strategy to choose DTE and Strike Price?,boldPlayIm,wallstreetbets,0.0
+1,2019-08-05,"Yeah, that's why i don't buy options.. realistically only options that are like at least 6 months DTE.. because i'm a realistic man and realize i may be right on direction, but not down to the day or even the week.",APHAbaghodler,wallstreetbets,1.0
+2,2019-08-04,"Technically, Yes. I'm not innovating anything new here. But It's modified. In a way, where we're choosing DTE and Strike Price",boldPlayIm,wallstreetbets,2.0
+0,2019-08-05,"You need to start the day with $25k.
+
+Also they don't allow 0 DTE ever.",Gahvynn,wallstreetbets,0.0
+1,2019-08-05,"Reminds me again, always buy double the dte you think you need",heavenlyblues,wallstreetbets,1.0
+2,2019-08-05,SPY 0 DTE 287P,Gahvynn,wallstreetbets,2.0
+3,2019-08-05,All in 0 DTE SPX calls got it.,Gahvynn,wallstreetbets,3.0
+0,2019-08-07,You think my V 170 with 38 DTE wwould still make profits if i hold?,battlecats69,wallstreetbets,0.0
+1,2019-08-06,"this is incorrect the puts were two weeks out, not 0 DTE. Can't tell if you're intentionally trolling here",jimbofbx,wallstreetbets,1.0
+0,2019-08-07,So mm keep it propped until 1hr before knowing RH liquidates all the zero DTE options?,Necarad,wallstreetbets,0.0
+0,2019-08-08,Puts with far-out DTE is the only way on RH.,TCFNationalBank,wallstreetbets,0.0
+1,2019-08-08,"MSFT ATM call, +1yr DTE (min 1yr). It’s called a leap. It’s a leveraged option, which is already leveraged. Go put it in a back tester.
+
+5% movement in MSFT represented generally 10-20% movement in the leap. This works both up and down, but generally MSFT is growth stock.
+
+Advantages: 
+* If MSFT moves against you, you literally have a year for it to move back. 
+* You don’t hold it for a year. Repeat after me DO NOT HOLD OPTIONS TO EXPIRY. My leaps last 2-3mths
+* It’s leveraged as fuck. Small movements represent big gains, with relatively safe risk (see point 1)
+
+Disadvantage:
+* unlike stocks, if msft moves against you and you wait and wait, and it never recovers, you lose it all. See point 2 above. Do not hold it to expiration. Theta will murder you. Seriously, leaps are murdered by theta if you hold them too long. 
+* big capital. A leap on MSFT is typically around $1.5k. You actually want to buy slightly ITM. But if you’re confident in the stock, then the risk is more buying power reduction. I typically go for $10k of leaps, but your portfolio will vary.
+* Premiums matter, on a good day the leaps are expensive. Wait for a day when MSFT is going down.
+
+Other notes:
+* You can only do leaps on limited stocks and get good performance. It has to be well established, BYND even if it had chains that far out would be insane.
+* Leaps are very much a set a limit and wait for a fill, do not chase an open and DO NOT DO A MARKET ORDER, FFS SAY NO TO MARKET ORDERS PEOPLE.
+* It must be a growth stock (ok technically you could do it on a bear stock, but that’s risky)
+* it must have volume. WM is awesome, but there just isn’t the movement. You’re not looking to carry the leap to expiration. You want in and out within a few months at most. Despite WMs growth, the needle just wouldn’t move.
+* Be careful with volatile stocks. SPY is a growth stock, but it moves a lot. Way too much. 
+* Backtest. If you have access to the tools, run a leap on a stock and see how it performed. That will show you that WM sucks despite growing well, and MSFT printed tendies. It’s also worth seeing how it does over a negative period. I carried leaps over May, they looked ugly as fuck during May, but in June they were clean and green.",NastyTrader,wallstreetbets,1.0
+0,2019-08-09,"Also remember, if you sell any calls agains the shares, the premium less closing price is taxable as ordinary income, regardless of DTE",yuckfoubitch,wallstreetbets,0.0
+0,2019-08-12,"Shit, 21 dte max on that bitch. I’ll be chillin w like 40k other motherfuckers in the 8/16s",MartinLethalKingJr,wallstreetbets,0.0
+0,2019-08-12,"Gotta post here because mods wont let me post my morning coffee.. this is truly why I don’t bother doing it, it’s annoying having to go through hoops and shit everytime. 
+
+
+#Dow
+
+Apple Inc. (AAPL) (Information Technology/Technology Hardware, Storage &amp; Peripherals) Card applicants with 'subprime' credit scores have been receiving approval from Goldman Sachs Group (GS) (Financials/Investment Banking &amp; Brokerage), the bank behind the card, reported CNBC. Elsewhere, 9to5mac reported that Apple mobile phone market share in Europe fell 17% year-on-year in Q2, according to Canalys data.
+
+Exxon Mobil Corp. (XOM) (Energy/Integrated Oil &amp; Gas) – Iraq’s Oil Ministry said talks with Exxon on boosting the country’s oil output continue and the lack of an agreement doesn’t mean the talks have broken down, responding to media reports.
+
+Nike (NKE) (Consumer Discretionary/Apparel, Accessories &amp; Luxury Goods) is entering the subscription business, with a service for children called Nike Adventure, and hinted that there could be more services to come, reported CNBC.
+
+#NASDAQ 100
+
+Alphabet Inc’s (GOOG, GOOGL) (Communication Services/Interactive Media &amp; Services) YouTube has been accused of interfering in Russia's sovereign affairs, reported the Guardian. The video streaming platform has been accused of spreading information on unsanctioned opposition protests.
+
+Amgen Inc. (AMGN) (Health Care/Biotechnology), Novartis (NVS) (Health Care/Pharmaceuticals) - A US judge upheld two patents relating to Amgen’s rheumatoid arthritis drug Enbrel, and denied a challenge by Novartis, who sought to launch a copycat version. Novartis said it would appeal the ruling.
+
+Tesla (TSLA) (Consumer Discretionary/Automobiles) CEO Elon Musk announced that the company had pulled plans to build an air suspension option for its Model 3 vehicle.
+
+Viacom Inc. (VIAB) (Communication Services/Movies &amp; Entertainment), CBS Corp. (CBS) (Communication Services/Broadcasting) – Multiple reports suggest that a merger deal between the two co.’s is imminent and could be announced as soon as this week, after both boards met this past weekend to work out a few remaining decisions regarding board structure (CBS are slated to get 13 seats to Viacom’s 4), Leadership, Deal terms and naming.
+
+#S&amp;P 500
+
+Barrick Gold Corp (GOLD) (Materials/Metals &amp; Mining) Q2 19 (USD): adj. EPS 0.09 (exp. 0.09), Revenues 2.063bln (exp. 2.13bln), Q2 gold production 1.353mln ounces, Sees annual production at the top end of guidance range, Sees FY production at between 5.1mln-5.6mln ounces.
+
+BlackRock’s (BLK) (Financials/Asset Management &amp; Custody Banks) new PE fund, Long Term Private Capital, has completed a USD 875mln investment in Authentic Brands Group, becoming the largest investor in the entertainment company.
+
+General Motors (GM) (Consumer Discretionary/Automobile Manufacturers) and Volkswagen (VOW3 GY) (Consumer Discretionary/Automobile Manufacturers) see no future for hybrid vehicles in their US line-ups, reported the WSJ. Reportedly, conversely Toyota (TM) (Consumer Discretionary/Automobile Manufacturers) and Ford Motor (F) (Consumer Discretionary/Automobile Manufacturers) are expanding their US hybrid offerings whilst also working on full electric models.
+
+KKR (KKR) (Financials/Capital Markets) is set to acquire a majority interest in NVC Lighting's China Lighting Business for roughly USD 794mln.Sysco Corp. (SYY) (Consumer Staples/Food Distributors) Q2 19 (USD): EPS 1.10 (exp. 1.07), Revenue 15.5bln (exp. 15.66bln).
+
+Tapestry, Inc. (TPR) (Consumer Discretionary/Apparel, Accessories &amp; Luxury Goods) - Chinese brand ambassadors for Tapestry’s fashion label Coach have severed ties with the company (and other fashion names including Givenchy) over products which they say violate China's sovereignty by identifying Hong Kong and Taiwan as separate countries.
+
+Tyson Foods (TSN) (Consumer Staples/Packaged Foods &amp; Meats) – Over 3800 are out of work a fire at meat-processing plant in Kansas caused significant damage, however, the company said it will provide them ""some guaranteed pay"". Reportedly, the plant will remain closed indefinitely.
+
+#OTHER
+
+Cloudera (CLDR) (Information Technology/Software) announced a voting and standstill agreement with activist investor Carl Icahn, who earlier in the month disclosed an 18% share in the company. Two Icahn employees have been appointed to the software company’s board.
+
+PG&amp;E Corp (PCG) (Utilities/Electric Utilities) announced that it is evaluating a proposal from hedge funds Knighthead Capital Management and Abrams Capital Management, who have offered to provide the equity capital commitments that could support a plan to reorganise the company.
+
+Of note for social media companies; top White House officials reportedly discussed ways to attempt to predict mass shootings, suggesting the monitoring of people’s social media posts at a meeting in which representatives from Facebook (FB), Twitter (TWTR), and others social media platforms were present, reported the Washington Post. Reportedly, the representatives raised concerns over privacy. Separately, the White House may also be looking to attempt to regulate Facebook and Twitter over alleged anti-conservative bias, reported CNN last Friday.
+
+Fed is considering a new tool, a counter-cyclical capital buffer
+
+
+#Broker Moves
+
+Initiations:
+
+ASSETMARK FINANCIAL HOLDINGS (AMK) RATED NEW BUY AT GOLDMAN; PT USD 31
+
+ASSETMARK FINANCIAL HOLDINGS (AMK) RATED NEW NEUTRAL AT JPMORGAN
+
+DTE ENERGY (DTE) RATED NEW NEUTRAL AT MIZUHO; PT USD 131
+
+FULCRUM THERAPEUTICS (FULC) RATED NEW BUY AT BOFAML; PT USD 19
+
+FULCRUM THERAPEUTICS (FULC) RATED NEW OVERWEIGHT AT MORGAN STANLEY
+
+MIRUM PHARMACEUTICALS (MIRM) RATED NEW BUY AT CITI; PT USD 21
+
+MIRUM PHARMACEUTICALS (MIRM) RATED NEW BUY AT GUGGENHEIM; PT USD 18
+
+MIRUM PHARMACEUTICALS (MIRM) RATED NEW OUTPERFORM AT EVERCORE 
+
+ISIONCOSEC MEDICAL (ONCS) RATED NEW BUY AT ALLIANCE GLOBAL PARTNERS; PT USD 9O
+
+WL ROCK CAPITAL (ORCC) RATED NEW BUY AT LADENBURG THALMANN; PT USD 17
+
+OWL ROCK CAPITAL (ORCC) RATED NEW BUY AT SUNTRUST; PT USD 17
+
+OWL ROCK CAPITAL (ORCC) RATED NEW MARKET PERFORM AT KBW; PT USD 16
+
+OWL ROCK CAPITAL (ORCC) RATED NEW MARKET PERFORM AT WELLS FARGO
+
+OWL ROCK CAPITAL (ORCC) RATED NEW NEUTRAL AT BOFAML; PT USD 16
+
+OWL ROCK CAPITAL (ORCC) RATED NEW OUTPERFORM AT RBC; PT USD 17
+
+PHREESIA (PHR) RATED NEW OUTPERFORM AT WELLS FARGO; PT USD 31
+
+PHREESIA (PHR) RATED NEW OUTPERFORM AT WILLIAM BLAIRPHREESIA (PHR) RATED NEW",WSBConsensus,wallstreetbets,0.0
+0,2019-09-02,"Just write a covered call ATM or ITM if bearish, if Bullish write one 2% above 90 DTE.
+Can always use the proceeds to buy more shares, or buy a Put",Necarad,wallstreetbets,0.0
+0,2019-09-04,"Theta turns positive after the midpoint of the spread, vega exposure cancels out, and gamma is back loaded rather than frontloaded. If you are strongly targeting a specific sell date, there's no reason to be buying gamma that is higher as DTE increases, nor to be bleeding more theta, or buying volatility exposure if you're making a price play.
+
+90 percent of the people in this thread should be using spreads and are pissing away value on exposure they don't even know they have.",mechtech,wallstreetbets,0.0
+0,2019-09-05,"[Tastyworks displays it for me along the right side of the option chain.](https://i.imgur.com/4mZuffy.jpg) Looks like it has adjusted down a bit since I looked earlier. 
+
+Otherwise there are a few ways [that tastytrade also dives into in expert detail](https://www.tastytrade.com/tt/shows/options-jive/episodes/expected-move-formula-vs-strike-price-07-12-2017). The exact pricing is found using the formula (stock price) * IV * sqrt(DTE/365). Other back of the envelope methods include taking 85% of the front month straddle price, or averaging the prices of the front month straddle and the 16 delta strangle.",thrash56,wallstreetbets,0.0
+1,2019-09-05,"Had that same problem till recently. After reading a whole shitload of the nonsense on here I've arrived at a few rules I roll by now.
+
+Profits are profits. No one goes broke taking profits
+
+Sell in the morning and buy in the afternoon. 
+
+Cut losses or establish a hedge. I cut at 20% now if I'm not confident its a temporary dip(I'm poor so 20% by dollar is pretty low). If a position goes well I'll sell to secure the initial risk and keep rising or buy back in. Sell spreads to reduce risk or recover some money if my position was way wrong.
+
+Buying longer dated options as I can afford them, like 14 DTE. Too impatient for that 1 month stuff.
+
+Now sticking to only trading a couple tickers so I can actually get an idea what they do.
+
+YMMV and the jury is still out on the results but my win rate is a lot better and I'm starting to claw my way up.",Raging_Spleen,wallstreetbets,1.0
+2,2019-09-05,"Been thinking about your comment.   Would you mind elaborating on Vega cancelling out and gamma backloaded rather than front loaded ?
+What is DTE?
+
+I posted this comment earlier but my naked msft call that I bought yesterday before close and closed it at open today for .17 this morning lost value through the day to .10 as of now even though the share price kept going up.  
+
+I’m assuming it’s Theta and IV dropping through the day.   If I had sold the msft call as well,  I could have hold on to it through the day and it would have been profitable?",follow-spy,wallstreetbets,2.0
+3,2019-09-04,That was the smart play. Buy calls that are 2 DTE is for pure degenerates.,Flyers179,wallstreetbets,3.0
+0,2019-09-06,Not before he DMs his boys to buy 0 DTE poots.,Shmokesshweed,wallstreetbets,0.0
+1,2019-09-05,"Vega is volatility. The long and short leg of the vertical spread are correspondingly long and short vega, and therefore movements in IV (Implied Volatility) have minimal effects on the position.
+
+Gamma is the second order of Delta but I phrased that part incorrectly. Charm, or the change in Delta in respect to DTE (Days to Expiration), is the correct word to use. Naked calls have a decaying delta over time, which means that huge moves in the underlying have the greatest effect on the option price when you buy the call, and it decreases with every passing day.
+
+https://www.optiontradingtips.com/images/option-charm.gif
+
+On the other hand, vertical spreads have a very low delta far out from expiration, and as expiration approaches delta increases, which is a better tool for targeting specific future dates (cheaper to manage early on).
+
+As for theta, spreads have positive theta as the price approaches and passes the short leg (which would be the upper bound price in a bull call spread). As you can imagine, if your max profit is at 150 and the underlying stock is currently at 160 with 20 DTE, then the position will gain value every day rather than lose value as it becomes more certain that the position will indeed close at max profit.
+
+I can't answer your specific msft question as the msft call value depends on the share price and the strike of the call, which you didn't provide. If the call was close to expiry, then the fall in value was almost certainly theta erasing your extrinsic value in the call.
+
+When you hold a naked call you own profit in every price level from your strike up to infinity. As you can imagine, as expiration approaches, the likelihood of the share price skyrocketing to levels far above your strike decreases at an ever accelerating rate. While there's a small chance for MSFT to hit 150 with 30DTE, there's an impossibly small chance for MSFT to jump to 150 with 2 days left. If your short leg for a bull call spread was at 140, then you never owned this outlandish possibility of profit in the first place and are not subject to its decay.
+
+https://www.projectoption.com/wp-content/uploads/2017/01/ATM_Decay_Curve.svg?x34254)
+
+In general, it's a bad idea to hold naked calls under 30 DTE unless you're strictly looking to capitalize on a parabolic upswing and corresponding IV spike, or they're part of a larger position that has some longer term exposure as well. Sometimes they're also valuable if you think a huge pop will come sometime soon but don't quite know when, and want to ensure you fully capture this movement when it does occur.",mechtech,wallstreetbets,1.0
+2,2019-09-05,Strike and what dte?,dungbat83,wallstreetbets,2.0
+0,2019-09-06,"I now have a 7k play on Spy 310s expiring 20th 23rd and 25th (300 on 20th 23rd and 100 on 25th).
+
+Wish me luck, if Spy goes crazy in next 2 weeks it could be a 700k win and I promise not to blow it on 0 DTE Spies like AnalFarmer.",just_an_idea_1,wallstreetbets,0.0
+1,2019-09-06,APHA $5 2021 Jan calls are cheap. Only $0.30 extrinsic for 500 dte.,sunfrost,wallstreetbets,1.0
+0,2019-09-09,Calls on volatility 45 dte,chewtality,wallstreetbets,0.0
+1,2019-09-08,How are you going to close your positions 495 DTE? Or are you planning on picking up shares if you're assigned?,LogsInToSay_AYOOO,wallstreetbets,1.0
+0,2019-09-10,OTM Bull spread 30-60 DTE - when the chicken sandwich is back in stock.,mechtech,wallstreetbets,0.0
+1,2019-09-10,What? They offer 0 DTE. The ultimate FD,ImJuicedBro,wallstreetbets,1.0
+2,2019-09-09,I’ve done several earnings condors. Then earlier this year I did condors on a broad array of etfs. Wings at .16 delta 60 dte. Unfortunately I stopped using them because I wanted to go for bigger gains which was a big mistake.,heavenlyblues,wallstreetbets,2.0
+0,2019-09-10,Anyone trade calendar spread often? What are your ideal DTE on the short/long strikes?,heavenlyblues,wallstreetbets,0.0
+0,2019-09-11,Based on the expected move shown in the TastyWorks app. I believe their system uses the formula-based approach to calculate it: (stock price) * IV * sqrt(DTE/365).,thrash56,wallstreetbets,0.0
+0,2019-09-12,Less DTE = more delight = more FD,uvitende,wallstreetbets,0.0
+1,2019-09-12,"If I'm selling CSP, it seems much more profitable to try to get 6-7 trading DTE. I've got some AMD $29.5p expiring tomorrow, and I'd like to sell some 9/20s tomorrow, but trade fees (I'm using a real broker) seem really crappy for buying back, considering my volume. Can I buy to close and sell to open on the same trade and just pay the option leg twice?",omgroki,wallstreetbets,1.0
+2,2019-09-12,"I dont remember, i just trade directional Spy option 0 DTE and buy a few strike out of the money like a true autist",Cowways,wallstreetbets,2.0
+0,2019-10-02,"The IV represents how far the underlying would need to move in order for the option's extrinsic value to be fairly priced.  It actually means a lot more then that but it takes a whole book to cover the topic.
+
+&amp;#x200B;
+
+Higher IV = Options market feels a bigger move is afoot.
+
+The Implied volatility for $BBBY of the OCT 4 (3 DTE) options chain on $BBBY is 223.3% .
+
+For comparison $JNUG OCT 4's are at 131.1% and UVXY are 133.2%.
+
+&amp;#x200B;
+
+If you buy ATM calls or puts and it goes up or down $1 (10%) you will make $0 due to IV crush.  So it's like $GME all over again, in which the people who guessed correctly with puts got equally wiped out because it didn't move enough to overcome the IV premium in the options they bought.",throwaway_rules,wallstreetbets,0.0
+1,2019-10-01,"Im seriously addicted to 0 dte and weekly options, someone please save me ...the gains are so much faster but so are the losses",nebula504,wallstreetbets,1.0
+2,2019-10-01,SPY 1 DTE ATM calls still have about a dollar’s worth of extrinsic value left on them. Great for sellers assuming no significant rebound tomorrow.,AbsurdistSpeculator,wallstreetbets,2.0
+3,2019-10-01,0 dte options man....down 1300 to up 3k to only up 2k now. I think i have a gambling problem,nebula504,wallstreetbets,3.0
+0,2019-10-02,"3 DTE 291 $SPY puts x150. Bought at a low of 0.05, sold at a high of 3.50",FormalBullfrog4,wallstreetbets,0.0
+1,2019-10-02,"It's not 50/50. That's no different than saying ""The odds of winning the Powerball are 50-50, you either win or you dont"".......
+
+I wish OP the best of luck, but YOLO plays on 1 DTE options always end the same way if you keep risking your whole account; It doesn't matter how high the number gets from where you started, all it takes is one play where you're wildly wrong and the account is 90%+ wiped. Imagine if it went the opposite way on open and spy was back at 297.
+
+&amp;#x200B;
+
+The progression of this is; 1k-2k (OH HELL YA, TRADING IS DOPE) 2k-4.5k (DAMN BRUH I CAN DO THIS SHIT), 4.5K-11K (I'M A FUCKING WIZARD YOOOOOO) 11K- $1350.00 (NOOOOOOO........IT'S OKAY, I WILL CLAW MY WAY BACK I'M A BEAST RAWRRRRR) 1350.00- $1.98 (FUCK TRADING NOBODY MAKES MONEY DOING THIS SHIT WALL STREET IS FOR CRIMINALS CLOSING MY ACCOUNT I'M AN ALCOHOLIC NOW).",kingj111,wallstreetbets,1.0
+0,2019-10-04,Amazing! I do the exact same thing. What typical DTE do you aim for? I mostly do it on stocks/ETFs I don’t like owning.,DUMB087,wallstreetbets,0.0
+1,2019-10-04,"Check the historical short-term IV (e.g., try to plot a chart of ATM IV for the front month options) for the underlyings where you see this behavior. You're likely going to see that IV is higher. With higher IV, you usually have higher overall extrinsic value, which must decay until expiration. This means the options have to lose more value on the same amount of time (0-5 DTE, as in your example). That means faster decay, including faster intraday decay.",bfreis,wallstreetbets,1.0
+2,2019-10-03,"It's not about being a bear, it's about being fucking stupid. Buying 2% 10 DTE OTM puts after a -2% day is a Hail Mary.",jonnykappahala,wallstreetbets,2.0
+0,2019-10-04,"The gold was +50 / -50, sold half at an 80% gain.   I should have probably sold the other half...
+ But now the spread is so cheap that id rather hold it.  
+
+I mostly trade charts and the GLD is a pure chart play.  I'm guessing it will retrace somewhat significantly the last big move up sometime before March.
+
+TLT is more of a premium grab.  I'll plan close the short leg on down days and reopen on up days.  IMO the 30-45 DTE premium is low compared to the moves that TLT has been making.
+
+All works great until I screw it up!",bonzojon,wallstreetbets,0.0
+1,2019-10-04,0 DTE puts are the fucking stupidess idea i've ever had... i'm fucked... just lost it all in 2 hours.,bluelegend87,wallstreetbets,1.0
+2,2019-10-04,Don’t worry I’m gonna blow it up by Monday on 0 DTE FDs lmao,CrohnsandCannabis,wallstreetbets,2.0
+3,2019-10-04,Bought some 292 0 DTE PUTS for 0.07...  Hopefully it doesn't rocket ...,bluelegend87,wallstreetbets,3.0
+4,2019-10-04,I can agree with this.  Few people here are holding long term though.  I think after an initial dump today it might have a chance to bet back to 290+ short term as a reaction to those which is enough time for 14+ DTE calls to at least break even.,jdn312,wallstreetbets,4.0
+0,2019-10-07,"Assuming you're trading options like everyone else on this sub, do you play FDs on these?  Premiums are up there on all of these to be playing longer expirations.  I typically take 30-45 DTE.",sunfrost,wallstreetbets,0.0
+0,2019-10-08,"I don't understand for the life of me why y'all buy &lt;10 DTE calls at the tip of a 2% run up or &lt;10 DTE puts at the bottom of a 2% drop.
+
+I know it's worked *often* this year with calls but it just seems like a stupid fucking play.  If you missed your entry, wait.  But the likelihood of SPY staying flat at 289-291 tomorrow seems a fucking lot more likely then it hitting 280.",jonnykappahala,wallstreetbets,0.0
+1,2019-10-08,Am i the only degenerate that solely trade 0 dte options ..i have no long positions. High risk high reward ya get what im sayin?,nebula504,wallstreetbets,1.0
+0,2019-10-10,"I've tried doing that with strangle and I don't think I will anymore. Literally every single time in the past 2 weeks I did that, SPY settled down right between the two. I guess that's the retarded thing about playing &lt; 3 DTE stuff - you watch theta take your money in cases like that and only after you feel like you have to close them out and take what you can get, a meteor hits earth and the market goes down 90%.",SunriseSurprise,wallstreetbets,0.0
+1,2019-10-09,"Hedged my Jan Disney calls at the last minute with 2 DTE  itm puts with ~triple the delta...should be nice not great, not terrible",OneMustAdjust,wallstreetbets,1.0
+2,2019-10-09,Sold a 0 DTE 2920 call spread. My cheeks are ready,dungbat83,wallstreetbets,2.0
+0,2019-10-10,"1. Do not fucking touch SPY until it hits 280 or 300. 
+
+2. Buy 45 DTE at a minimum.
+
+3. Choose stocks with low IV percentile.
+
+4. Don't buy OTM. 
+
+5. Use Bollinger Bands as your entry to go long or short (this way, at least you're not just YOLO'ing).
+
+6. If your play goes down 20%, buy one strike further ITM or cut your losses. 
+
+7. Don't be afraid to sell for a loss. I'd rather have 200 chances to make $5k then 1 chance to make $10k. 
+
+That being said, I'm short ORCL 55/57.5 Exp 11/15 and 12/20 right now.  I think LULU, TGT, and NIKE are good 60-day shorts, even more so if they gain on this ""mini deal.""",jonnykappahala,wallstreetbets,0.0
+1,2019-10-10,"Can't buy 0 DTE options in RH, can only sell them. He bought that today though and is carrying it into tomorrow",Jarreddit15,wallstreetbets,1.0
+2,2019-10-10,Which one of you brave boys is going all in on 0 DTE options tomorrow,Cnastydawg,wallstreetbets,2.0
+0,2019-10-11,If you come to TD you can trade even on the 0 DTE Options 🤷🏻‍♂️,Cnastydawg,wallstreetbets,0.0
+1,2019-10-11,"OP, please teach us the wisdom of your autistic way. I’ve love to sell CSP on TSLA but lack the capital to do so. I’m stuck with using put credit spread. I prefer 45 DTE &amp; delta to be below .2 for the short position. It’s less money but less risk. We all know how crazy Musk can be. What’s your TSLA poison?",neocoff,wallstreetbets,1.0
+2,2019-10-11,Hahahahaha the last time I said this was December and then the PPT came and blew up 25k of my money on my 0 DTE FDs lmaooo,CrohnsandCannabis,wallstreetbets,2.0
+0,2019-10-12,"I’ll sell you $10,000 worth of options on weekend ig 0 DTE",Cnastydawg,wallstreetbets,0.0
+0,2019-11-02,"I dunno but I sold puts at $65 for BYND, with 30 days DTE.",ibmboyy,wallstreetbets,0.0
+1,2019-11-01,"I bought 305p today , Gyna good news announced less than 1 hour later. My puts are 49 DTE though, so I will fight in for the bears",shitsterMcgee,wallstreetbets,1.0
+2,2019-11-01,Call 35 0 DTE lol still possible to be ITM but unlikely,Cnastydawg,wallstreetbets,2.0
+3,2019-11-01,Turned my overly ambitious VIX calls into AMD 0 DTE 35C as my last play. Let's see how this pans out.,Cnastydawg,wallstreetbets,3.0
+0,2019-11-03,"Spy puts or roku calls.
+
+Do less 1-3 DTE",fecal_destruction,wallstreetbets,0.0
+0,2019-11-05,Theta is priced in on 0 dte options,YOLOFDSWSBLLC,wallstreetbets,0.0
+1,2019-11-05,Theta doesn't matter in 0 dte,YOLOFDSWSBLLC,wallstreetbets,1.0
+0,2019-11-05,No I got fucked up on them so I sold on Friday for a big loss. Flipped em to AMD $35 0 DTE calls and it closed at $34.90.. oof. Worst part is AMD was almost at $37 today but I expected that to happen on Friday.,Cnastydawg,wallstreetbets,0.0
+1,2019-11-05,Yes on friday with AMD 0 DTE $35 calls. It closed at 34.89.... Right now it's 36.90....,Cnastydawg,wallstreetbets,1.0
+2,2019-11-05,"Theta eats away gains, so stick to 45 DTE, and Delta.",poundofmayoforlunch,wallstreetbets,2.0
+0,2019-11-07,Yeah just sell like 1000 way OTM 0 dte  SPX puts under the circuit breakers . Guarantee money maker,flytrader643,wallstreetbets,0.0
+1,2019-11-07,"Lol I don't want a cut. Follow the previous guide on infinite margin but try it with tesla calls this time. It might work or it might not. Then you need to up that margin using the loophole until you've got a few million. Stick to 800k if you want to be conservative. Start doing this entire process at 330 pm so robinhood hopefully does not notice. Spend the entire margin available on spy options. Go with 1 dte. Slightly out of the money. Calls or puts, up to you. On market open the next day, if the position is green, close it. If its red, well, might as well let it ride till the end of the day. Assuming it was green, close all your trades that you used on the margin loophole, then transfer funds out asap, all of them. If it stays red, uninstall the app (actually pointless but funny to say) and on head on down to mexico.",Foundanant,wallstreetbets,1.0
+2,2019-11-07,Consider that my idea isn't just a stupid plan to pointlessly rack up margin. You could potentially make millions if it worked. Just buy 3 million worth of 1 dte spy puts at market close. Hope trump tweets something stupid. You would make millions.,Foundanant,wallstreetbets,2.0
+3,2019-11-06,Holy shit I'm retarded too I completely didn't realise. So how tf does one actually make money from this trade if the ITM calls essentially have a delta of 1 and theta burn is slow as there's high DTE?,spy400qqq300,wallstreetbets,3.0
+0,2019-11-08,"Oh okay
+Now using what the other guy said to sell 45 and buy back at 30 DTE, can someone still exercise against me? What would I do with the put I bought back? Or does my account basically have no option because they cancel?",but-this-one-is-mine,wallstreetbets,0.0
+1,2019-11-08,What’s DTE,but-this-one-is-mine,wallstreetbets,1.0
+2,2019-11-08,"Sell 45 DTE, buy them back at 30 DTE, collect premium. Rinse and repeat",brannock_,wallstreetbets,2.0
+3,2019-11-07,Do 0 DTE credit iron condors beg to be assigned?,The_toast_of_Reddit,wallstreetbets,3.0
+4,2019-11-07,"is this the same gdamn stupid ATVI ""morning"" dip and watch as it recovers flat/whatever by EOD?
+
+with ER after close, you can prob play calls within 90 dte and even if it trades flat you'd be up a bit thanks to IV by close.",freehouse_throwaway,wallstreetbets,4.0
+5,2019-11-07,"buy a IWM strangle for $800, 45-55 DTE 
+
+if either side hits $800 by itself, sell it. Then you hope the other side is worth something by expiry, Worst case you come out flat 
+
+If neither side doubles by the 30 DTE mark, sell the straddle and repeat 
+
+talking out of my ass here i only tried this once lol",4dr14n,wallstreetbets,5.0
+0,2019-11-09,Would you sell and then buy back with longer DTE calls if they really hit it out of the ball park?,The_toast_of_Reddit,wallstreetbets,0.0
+1,2019-11-08,"ok, so, i don't think a 260 put with a 2+ week DTE is a BAD idea. but, just keep this in mind: 
+
+-news of tariff easing sent us higher AFTER ATH and with no direct apple catalyst  
+-news of tariff uncertainty kept us range bound, but very tight.  
+-news on tariff easing being wrong sent us down, and directly back to where we started.
+
+i would take this as an indicator that you will need a trade war INCREASE or a severe tweet from orange man to likely see a big drop.
+
+that is all, im out. smooch.
+
+never bet against tim apple.",zuggles,wallstreetbets,1.0
+2,2019-11-08,"Jan calls are like 70 dte, gonna start dumping some of my shit or roll them out before theta gets real",freehouse_throwaway,wallstreetbets,2.0
+0,2019-11-09,"Robinhood has to let us buy same day DTE FDs, if anything based on the money lost last week",NotToRedditty,wallstreetbets,0.0
+1,2019-11-09,DTE?,DUMB087,wallstreetbets,1.0
+0,2019-11-12,"his break even was not even hit compared to his share price though, since he paid alot on the buy premium, that means alot of that was just extrinsic value which is worthless if it expires and the prices dont change from here. OP basically got really lucky on the gamble as it was last DTE.",indicatorform,wallstreetbets,0.0
+1,2019-11-11,"The only relatively high probability win rate is to gain from IV:
+
+* buy weeks before, sell right before earnings (long IV)
+* sell strangles (or iron condors) right before earnings with closest DTE possible and wait (short IV). IC less risk but less premium than ICs.  Strangles work well *most* of the times (GOOG, AMZN, SQ, TWTR etc..), but in the rare case (e.g TSLA's last earnings), an IC would be the only way to protect you and strangles could wipe out all the gains you made in the past few months and then some..
+
+Do NOT buy right before earnings. IV crush will kill you. If you want to buy, do it much earlier with a relatively long DTE like you would for usual options.",chodmode2,wallstreetbets,1.0
+2,2019-11-11,What DTE are you writing?  Personally Rather chance naked puts with 90% or better RoI.  Most need to be over 400 DTE though.,Necarad,wallstreetbets,2.0
+3,2019-11-11,also with 0 dte you would be losing money due to theta literally every minute.,odusanyaka,wallstreetbets,3.0
+0,2019-11-12,"One this week and one last week, they’re 800 DTE",Necarad,wallstreetbets,0.0
+0,2019-12-02,"Start with higher IV ""low"" price underlyings and go with long 30-45 DTE strangles, sell at 40-60% profit whenever that happens, rinse and repeat. Diversify across currencies, commodities and equities. Even if you get assigned, you won't be screwed.. I got assigned AMZN and SHOP a few times and got burnt..",chodmode2,wallstreetbets,0.0
+1,2019-12-02,"Probably gonna regret selling some of these puts already but they were meant as hedge anyways (wasn't enough to save my memefolio).
+
+Up 118%. Plus 195p on QQQ still seems so far away with only 18 dte.",freehouse_throwaway,wallstreetbets,1.0
+0,2019-12-03,Good by me. Opened 0 DTE condor at 302/313,lthopper,wallstreetbets,0.0
+1,2019-12-03,Buying single 1 DTE options without knowing how they work and also having 31k in rh seems unlikely for sure.,Dick_Cuckingham,wallstreetbets,1.0
+0,2019-12-04,why anyone all inning 3 DTE options in the first place is beyond me,Riskybusiness622,wallstreetbets,0.0
+1,2019-12-04,"i mean youre buying FDs its a gamble. all that shit you're saying about them shutting down businesses doesnt really matter for a 2 DTE trade
+
+its more believable if you say its cuz of the magic lines",freehouse_throwaway,wallstreetbets,1.0
+2,2019-12-04,"Essentially if you look at outstanding options on SPY you can see that in order for the currently outstanding options to remain delta neutral (most market makers objectives) they will have to flip their positions from long to short or short to long at these levels. Thus fueling the moves that would push them through such levels in the first place.  
+
+
+If market makers sell 1,000 calls with delta of 0.8, then they buy 80,000 shares to remain delta neutral.  
+
+
+If market sells and delta falls to say 0.5 then they have to re balance accordingly to remain delta neutral. In this scenario the market maker would be forced to sell 62.5% of its shares that were originally purchased in order to accommodate the change in delta. (0.5/0.8=62.5%)
+
+If market than rallied afterword market maker would have to add shares to positions as delta increased.  
+
+
+Essentially you can think about it as an asymptotic relationship where the need to purchase / sell shares in order to remain delta neutral increases as you approach these price points, and the need to do so decreases the closer you are to the median of these points.  
+
+
+Vix will pop as you cross over these points and fall as you get closer to the median of these points. The data is calculated using options with less than 100 DTE.",chaney3,wallstreetbets,2.0
+0,2019-12-06,IV is kinda like: (delta/OI)*DTE)+asking price... it helps when your trying to calculate how much money you want to lose for the day.,JustFuckingSendIt,wallstreetbets,0.0
+1,2019-12-06,"It's certainly possible. So is a meteor hitting the NYSE tomorrow. I have narrowed the window down to a ridiculous amount that would be highly criticized by 99% of professionals and now you are asking me for a play by play update of the market for the next week? Would you like to know on what 1min Candle the next recession will begin as well??? This sub is great. It's literally what I live for. The pure autism radiating from this single comment is amazing because it suggests that you want to wait to buy 0 DTE options and then have the market crash (Which would be extremely profitable if you did have such god like abilities haha.)  
+
+
+Lol, in all seriousness I do think that a continued trend higher is very likely for a short bit with current market conditions at play so yes. But I say that with a huge grain of salt because I don't really know. Wish I did though. :/",chaney3,wallstreetbets,1.0
+2,2019-12-05,"Maybe.  TSLA doesn't always do what you think it will.  Better play with where it's trading in this range, sell a 30-45 DTE iron condor w/ wings around 360 and 280.   Collect 100 for every 400 risked.   Close after 2 week for 50% profit, rinse and repeat.  Why lose all the time when you can harness the brutal ass blasting power of theta for yourself?",DarthTheta,wallstreetbets,2.0
+3,2019-12-05,Looking for 1 dte FD suggestions.,SenseiWonton,wallstreetbets,3.0
+0,2019-12-07,"OTM cash covered puts at -.30 delta &amp; 30-45 DTE on almost anything. It’s not sexy, but you won’t lose money. But if you move that delta up to ~45%, then you might get that gambling tingle in your balls without really even risking money because guess what. You keep that strike price and collect premium until you get assigned, then sell covered calls on your position until that shit profits, rinse repeat. Wheel that shit. Or to profit and not even gamble, sell OTM put credit spreads. If you want to YOLO, $LULU calls. Or $BBBY calls and ride that IV train to earnings. Beckys love yoga pants and making their houses motherfucking homes.",nard_bagman,wallstreetbets,0.0
+1,2019-12-07,"If today's return and total return are different doesn't this mean you bought these before today? 
+
+That's at least 1 DTE, 0 DTE is if you bought these today  😒",Lucky_Knight1,wallstreetbets,1.0
+2,2019-12-07,+20%... hell I can do that with modest debit spread strats. But I’d much rather roll that money on 1-5 DTE options on high volume ETFs,fecal_destruction,wallstreetbets,2.0
+3,2019-12-07,"reads DTE 
+
+
+worries my power is being shut off soon",keeshoown,wallstreetbets,3.0
+4,2019-12-07,"The way SPY is going, just buy the reverse of the trend of the day, with 3 dte. Works most of the time",raizen0106,wallstreetbets,4.0
+5,2019-12-07,"I held up to 0 DTE, but I’m not really one for 0 DTE spreads.",FlipCallsFuckPuts,wallstreetbets,5.0
+6,2019-12-06,C’mon PPT get to SPX 3150 please so my 1 DTE call spread makes me tendies.,cydworth,wallstreetbets,6.0
+7,2019-12-06,"Sold against my shares: MU 0 DTE $48 call for 33 cents and two MU 12/13 $48 calls for $1.10 
+
+Nice",fcf-whore,wallstreetbets,7.0
+8,2019-12-06,DTE?,SoundShadowZ,wallstreetbets,8.0
+9,2019-12-06,"FCX jumped to $11.44 premarket. Someone tell me this is a mistake
+
+Sold all my calls yesterday (for a profit) then put it all into puts 1 dte fuckkkk",raizen0106,wallstreetbets,9.0
+0,2019-12-08,"Better, wait for a 1%up day then sell a 1% otm bear call spread 1 dte",scrubtoyachty,wallstreetbets,0.0
+1,2019-12-07,"Correct. They were 0 DTE when I sold, but I averaged down heavily Tuesday - Thursday. Almost bought another 1000 contracts at $0.03 before Thursday’s close, but my balls are only so big.",FlipCallsFuckPuts,wallstreetbets,1.0
+2,2019-12-07,"What part of Case secured puts don't you understand?
+
+ [http://www.optionstradingiq.com/the-wheel-strategy/](http://www.optionstradingiq.com/the-wheel-strategy/) 
+
+Read this and then point to me where the naked calls are go ahead Ill wait.
+
+You clearly don't know what your talking about. (I'm not surprised, most people here don't even know what option writing is). If you don't understand why a purchaser of put/call options is buying insurance. Then you need to take your series 7 again.
+
+Lets go through the basics again.
+
+A put is a right, but not an obligation to sell stock by the expired date.
+
+A call is a right but not an obligation to buy stock by the expired date.
+
+Why are purchasers of this contract considered buying insurance? Because the writer (aka underwiter) is guaranteeing to you (the purchaser) that should the stock fall below the strike (in the case of puts) that they will buy your stock at an agreed upon price. This is insurance my friend. I, the option writer, is guaranteeing your max loss is defined by the difference in strike price of the contract plus the premium.
+
+Now on the call side why is this also insurance? Because lets say your an airline and you want to ensure that your fuel costs are fixed. Should the price of the fuel rise by 5%, your suddenly unprofitable. So what do you do? You buy call options. Again I the option writer of calls is guaranteeing that you can acquire fuel at a maximum fixed cost. Now what do I get for taking on such a risk? Premium. Its not by accident that its called premium.
+
+Next. As an option writer you should know the key differences between undefined risk and defined risk. Lets go over the basics again. Selling a put is considered ""defined risk"" that is no matter what price the share goes to (even zero) there is a defined risk. So long as you cash secure this transaction there is NO MARGIN requirement. For the call side, if you sell naked calls there is what we call ""undefined risk"". The losses could be unlimited. Now why did James Cordier blow up his fund? Its because he engaged in naked call selling. What is the lesson here? DO NOT SELL NAKED CALLS PERIOD. If you have to, you better be prepared to cover quickly.
+
+Now after having explained to you the basics why do option writers win over the long run?
+
+A couple reasons.
+
+1. Options pricing is based on the  **Black**\-**Scholes**  (if you exclude LEAPS) pricing model. This means that you are theta positive. As time progresses you have an ever increasing burden to meet the break even point as a buyer. Especially so during the 5 DTE period.
+2. In the event of assignment, you are either giving away stock you own, or buying stock in which you cash secured. Now you have the option to take the opposite position (either writing a call or put). Eventually you will recover your acb and more and turn a losing position to an immensely profitable one.
+3. You only underwrite good companies. Just like an insurance carrier only writes good drivers. So too should you. This means that even if your saddled with shares, you want them anyway in the long run. This is a very risk adverse strategy. Dont believe me, why don't you have a chat with the big guy Warren Buffet.
+
+Next time you want to talk shit about option writing you better put your money where your mouth is. Ill write the above mentioned companies all day and your welcome to take the opposite side to prove me wrong. In some ways you know its true, you just wont admit it to yourself. Just peruse all the losers here. Who do you think is on the opposite side of that trade? Option writers like me.",FullTime_Autist,wallstreetbets,2.0
+0,2019-12-09,Ride my PTON calls to the moon until Friday then go all in SPY 1 DTE puts for that sweet trade war escalation sell off.,SVXYstinks,wallstreetbets,0.0
+0,2019-12-09,SPY puts all in 7 DTE,onequestion1168,wallstreetbets,0.0
+0,2019-12-10,"Right on man! I did almost the same as you, mine is Long 202p and 212.5 and Short -2 210. DTE 3, expiring 13.12.19. Estimated POP 85%
+
+The Thetagang for the win! 
+
+Going to profit 65$ if price stays the same or goes up to infinity at exp. Also actually the best gains will be down at 210 (315$) and breakeven at level 207, if under that slowly max loss for 434$ but thats over 2 std away. Vol crush should speed up the gains too at the green side. As long as it will not gap down under 207 its win. ""it literally cant go tits up"".  🤓",pviljaka,wallstreetbets,0.0
+0,2019-12-11,"0 dte CD are tempting, but I dont like gambling.
+Guhhhh",ev01ution,wallstreetbets,0.0
+1,2019-12-11,their DTE is coming soon,ToCommit,wallstreetbets,1.0
+0,2019-12-12,"How to make money from earnings:
+
+* Buy calls 15 days before earnings. Sell 1 hour before earnings.
+* Join theta gang and sell strangles/IC/Iron butterfly for the closest DTE depending on **P**ersonal **R**isk **T**olerance©
+* Use tears of IV crushed autistic as lube",chodmode2,wallstreetbets,0.0
+1,2019-12-12,bought 1 DTE AMD calls on its rip and sold at the peak. who am I?,actuarial_defender,wallstreetbets,1.0
