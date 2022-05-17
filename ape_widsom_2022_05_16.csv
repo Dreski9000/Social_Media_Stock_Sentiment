@@ -1,0 +1,201 @@
+Rank,Name,Ticker,Count,Perc_Change,Daily_Count
+1,SPDR S&P 500 ETF Trust,SPY,543,181%,"2,312"
+2,GameStop,GME,335,122%,"6,817"
+23,Tesla,TSLA,306,378%,"2,556"
+44,Apple,AAPL,148,222%,"1,060"
+15,Invesco QQQ ETF,QQQ,139,60%,"1,257"
+96,Twitter,TWTR,125,443%,"1,495"
+47,Aterian,ATER,114,37%,"1,249"
+28,AMC Entertainment,AMC,111,76%,"1,922"
+9,AMD,AMD,88,80%,261
+110,Microsoft,MSFT,87,93%,378
+2111,Home Depot,HD,82,447%,233
+2212,Meta (Facebook),FB,73,462%,471
+113,Amazon,AMZN,58,107%,179
+7014,Nu Holdings,NU,46,1050%,114
+215,ARK Investment Management LLC - ARK Innovation ETF,ARKK,43,79%,"1,152"
+8016,DTE Energy,DTE,43,258%,290
+717,Vanguard Total Stock Market ETF,VTI,42,-19%,184
+2618,Alphabet (Google),GOOG,39,290%,159
+4119,Netflix,NFLX,39,388%,"3,898"
+820,SoFi,SOFI,36,44%,272
+1421,TravelCenters of America,TA,35,-24%,296
+522,Vinco Ventures,BBIG,35,21%,187
+323,NVIDIA,NVDA,35,46%,119
+624,C3 AI,AI,35,52%,91
+3325,ZIM Integrated Shipping Services,ZIM,34,278%,116
+2826,Wheels Up,UP,34,183%,109
+1327,ProShares Trust - ProShares UltraPro Short QQQ,SQQQ,34,386%,79
+528,ProShares Trust - ProShares UltraPro QQQ,TQQQ,34,55%,779
+929,Vertex Energy,VTNR,33,154%,129
+230,CLEAR Secure,YOU,33,106%,130
+1031,IronSource,IS,32,78%,276
+332,Gartner,IT,32,129%,153
+1733,Palantir,PLTR,32,10%,664
+1334,Rivian,RIVN,31,63%,109
+1035,ProShares Trust - ProShares Ultra VIX Short-Term Futures ETF,UVXY,29,26%,53
+5136,Forestar Group,FOR,28,300%,172
+737,Luna Innovations,LUNA,26,86%,80
+2538,Take 2 Interactive,TTWO,25,257%,60
+11439,Occidental Petroleum,OXY,24,2300%,69
+9940,Alibaba,BABA,24,700%,95
+1941,Walmart,WMT,23,35%,96
+9342,Digital World Acquisition,DWAC,21,320%,12
+17343,Shopify,SHOP,21,425%,36
+344,Chemours,CC,21,163%,61
+61645,Cooper Companies,COO,20,1900%,311
+346,Allstate,ALL,20,100%,73
+547,Archaea Energy,LFG,19,46%,93
+39448,Roblox,RBLX,19,850%,47
+2449,Walt Disney,DIS,19,138%,61
+2950,Sea (Garena),SE,19,73%,42
+51,ON Semiconductor,ON,19,90%,45
+14952,Sundial Growers,SNDL,18,800%,102
+1853,Paramount Global,PARA,18,200%,84
+1454,First Trust Exchange-Traded Fund III - First Trust Health Care AlphaDE,FXH,18,157%,114
+3155,Vanguard S&P 500 ETF,VOO,18,-25%,68
+456,Bloom Energy,BE,18,80%,78
+64857,Spirit Airlines,SAVE,17,N/A,102
+1958,SP Plus Corporation,SP,17,31%,102
+2959,Exxon Mobil,XOM,16,167%,37
+1260,Eversource Energy,ES,15,36%,54
+7661,Jingdong Mall,JD,14,180%,43
+10162,Peloton,PTON,14,250%,46
+79363,Warner Bros. Discovery,WBD,13,550%,35
+3364,Target,TGT,13,N/A,90
+965,Onion Global,OG,13,63%,28
+12666,WeWork,WE,13,1200%,42
+4167,Desktop Metal,DM,13,-35%,312
+2968,Dow,DOW,13,63%,46
+5769,Tilray,TLRY,13,225%,20
+870,NIO,NIO,13,333%,37
+28571,Palo Alto Networks,PANW,12,1100%,68
+26672,Carvana,CVNA,12,1100%,23
+4373,Ginkgo Bioworks,DNA,12,140%,109
+67774,Cloudflare,NET,12,1100%,41
+5275,JPMorgan Chase,JPM,12,200%,31
+4876,International Paper,IP,12,300%,22
+4477,Toronto Dominion Bank,TD,12,-29%,54
+778,Antero Midstream,AM,12,9%,"3,536"
+979,Goldman Sachs,GS,12,50%,46
+2780,Clover Health Investments,CLOV,12,200%,13
+3181,"Vanguard Group, Inc. - Vanguard Total World Stock ETF",VT,11,10%,44
+53882,PayPal,PYPL,11,1000%,19
+3083,General Motors,GM,11,-21%,18
+384,iQIYI,IQ,11,175%,30
+64985,McDonald,MCD,10,900%,50
+986,Mullen Automotive,MULN,10,150%,28
+6987,Deere & Company,DE,10,233%,52
+53788,Verizon,VZ,10,900%,37
+4089,Weight Watchers,WW,10,25%,31
+1390,ServiceNow,NOW,10,43%,36
+28291,BlackBerry,BB,10,400%,41
+97592,Corsair Gaming,CRSR,9,800%,22
+3493,Chindata,CD,9,-10%,39
+2094,23andMe,ME,9,800%,55
+3895,Tredegar,TG,9,N/A,10
+66096,Mastercard,MA,9,800%,24
+1497,Southern Company,SO,9,80%,27
+21198,Procure ETF Trust II - Procure Space ETF,UFO,8,N/A,61
+53899,Weber,WEBR,8,700%,26
+617100,U.S. Bancorp,USB,8,N/A,-3
+305101,Airbnb,ABNB,8,700%,17
+34102,Coinbase,COIN,8,167%,18
+453103,O-I Glass,OI,8,700%,14
+533104,Weber,WEBR,8,700%,26
+554105,Snowflake,SNOW,8,300%,16
+611106,U.S. Bancorp,USB,8,N/A,-3
+43107,Hasbro,HAS,8,-11%,59
+11108,Grocery Outlet,GO,8,167%,42
+54109,Osisko Gold Royalties,OR,8,-20%,34
+90110,ContextLogic (wish.com),WISH,8,300%,0
+198111,Procure ETF Trust II - Procure Space ETF,UFO,8,N/A,64
+112,Chegg,CHGG,7,N/A,15
+27113,Intel,INTC,7,133%,96
+399114,MediaAlpha,MAX,7,250%,20
+460115,Helmerich & Payne,HP,7,600%,48
+4116,Square,SQ,7,133%,12
+19117,Big Lots,BIG,7,133%,46
+76118,Roku,ROKU,7,133%,23
+36119,Pintec Technology,PT,7,75%,57
+1120,Intercontinental Exchange,ICE,7,75%,9
+56121,Schwab Strategic Trust - CSIM Schwab US Dividend Equity ETF,SCHD,7,17%,14
+18122,Lowe's Companies,LOW,7,75%,86
+89123,Healthcare Realty,HR,7,250%,33
+932124,ProShares Trust - ProShares Short VIX Short-Term Futures ETF,SVXY,7,600%,10
+979125,Electronic Arts,EA,7,600%,23
+106126,iPath S&P 500 VIX Short-Term Futures,VXX,6,500%,20
+36127,Beyond Meat,BYND,6,20%,36
+128,Jetblue Airways,JBLU,6,N/A,95
+129,Grayscale Bitcoin Trust,GBTC,6,N/A,27
+214130,SSgA Active Trust - SSgA Energy Select Sector SPDR,XLE,6,500%,12
+62131,Direxion Shares ETF Trust - Direxion Daily Semiconductor Bull 3X Share,SOXL,6,-25%,10
+113132,Morgan Stanley,MS,6,-71%,4
+455133,Outfront Media,OUT,6,200%,29
+15134,DraftKings,DKNG,6,200%,14
+36135,First Commonwealth Financial Corp,FCF,6,N/A,54
+21136,Canaan,CAN,6,50%,18
+20137,General Electric,GE,6,N/A,22
+56138,BJ's Wholesale Club,BJ,6,N/A,14
+56139,Lucid Motors,LCID,6,50%,19
+40140,Credit Suisse,CS,6,50%,23
+16141,The RealReal,REAL,6,50%,17
+17142,Opendoor,OPEN,6,100%,15
+66143,Coca-Cola,KO,6,200%,11
+55144,Robinhood,HOOD,6,N/A,48
+40145,W&T Offshore,WTI,5,67%,13
+164146,Transocean,RIG,5,400%,3
+6147,Ready Capital,RC,5,150%,-15
+373148,NextDecade Corp,NEXT,5,400%,18
+395149,BlackRock Institutional Trust Company N.A. - BTC iShares 20+ Year Trea,TLT,5,400%,8
+37150,Boeing,BA,5,67%,10
+39151,Meta Materials,MMAT,5,150%,30
+589152,Rocket Lab USA,RKLB,5,400%,3
+126153,UnitedHealth,UNH,5,-76%,77
+44154,Editas Medicine,EDIT,5,150%,6
+710155,Lordstown Motors,RIDE,5,400%,3
+722156,United States Commodity Funds LLC - United States Oil Fund,USO,5,400%,15
+109157,Everest Re,RE,5,-38%,13
+766158,Cisco,CSCO,5,400%,19
+48159,Sphere 3D,ANY,5,400%,25
+48160,Visteon,VC,5,150%,11
+94161,Zoom,ZM,5,-50%,14
+49162,Instil Bio,TIL,5,25%,24
+118163,Interactive Brokers,IBKR,5,-55%,13
+64164,Salesforce,CRM,4,N/A,10
+75165,IBM,IBM,4,-43%,8
+58166,Diamondback Energy,FANG,4,100%,21
+121167,Energy Transfer Partners,ET,4,-64%,27
+75168,Ameriprise Financial,AMP,4,N/A,25
+245169,Canadian Pacific Railway,CP,4,300%,21
+6170,ETFis Series Trust I - Virtus LifeSci Biotech Clinical Trials ETF,BBC,4,33%,19
+307171,MicroStrategy,MSTR,4,300%,13
+7172,Danaos,DAC,4,300%,23
+354173,Solo Brands,DTC,4,N/A,35
+479174,New York Times,NYT,4,300%,18
+585175,Direxion Shares ETF Trust - Direxion Daily S&P Oil & Gas Exp. & Prod.,DRIP,4,300%,9
+633176,Target Hospitality,TH,4,100%,5
+121177,Principal Exchange-Traded Funds - Principal Investment Grade Corporate,IG,4,-33%,401
+58178,BP,BP,4,100%,12
+696179,DoorDash,DASH,4,300%,11
+737180,Lockheed Martin,LMT,4,300%,18
+790181,Paymentus,PAY,4,N/A,20
+805182,"Vanguard Group, Inc. - Vanguard Information Technology ETF",VGT,4,300%,55
+839183,SM Energy,SM,4,N/A,98
+846184,ITT,ITT,4,300%,209
+926185,Bed Bath & Beyond,BBBY,4,100%,9
+80186,Hawaiian Electric Industries,HE,3,200%,19
+62187,Anaplan,PLAN,3,200%,11
+71188,The Trade Desk,TTD,3,200%,9
+79189,ProShares Trust - ProShares Ultra Bloomberg Natural Gas,BOIL,3,200%,4
+87190,Post Holdings,POST,3,N/A,3
+132191,Petrobras,PBR,3,200%,9
+23192,Virgin Galactic,SPCE,3,200%,-4
+171193,WideOpenWest,WOW,3,200%,6
+60194,Upstart,UPST,3,-63%,10
+231195,Affirm,AFRM,3,-25%,9
+21196,EverQuote,EVER,3,200%,12
+292197,Sensata Technologies,ST,3,200%,28
+122198,Foot Locker,FL,3,-25%,7
+337199,Direxion Shares ETF Trust - Direxion Daily Semiconductor Bear 3X Share,SOXS,3,200%,4
+366200,NovaGold Resources,NG,3,200%,6
