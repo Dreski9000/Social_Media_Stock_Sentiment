@@ -13,19 +13,6 @@ Can we predict future price trends for stock tickers based on social media buzz?
    * Daily Stock Price Data (pulled via yahoo finance API)
       * Date Range : 01/01/2018 - 05/01/2022
 
-### Communication Protocols
-
-**Project Tracking**
-    
-*  [Google Sheets (Main Project Tracker w/ grading rubric)](https://docs.google.com/spreadsheets/d/1JCo-vFEugonDY_eLBWxoHMpitbmhl6kYNvJa8xVJeWE/edit?usp=sharing)
-
-**Brainstorming / Idea Organizing**
-   
-   * Weekly Meetings (2 -3) based on need
-
-   * Google Docs Brainstorming Document
-
-
 
 ### Project Outline
    * Determine set of Tickers for Analysis:
