@@ -56,6 +56,7 @@ Can we predict future price trends for stock tickers based on social media buzz?
   
 ### Dashboard (link)
    * *PLANNED*
+   * [Storyboard via Slides](https://docs.google.com/presentation/d/1Xe5wgTKFCUUx9honSPuoJNbzzv6wYgwGQHg37Fkk51k/edit#slide=id.g12f93bee036_1_0)
 
 ### Presentation (link)
 * [*IN PROGRESS*](https://docs.google.com/presentation/d/1Xe5wgTKFCUUx9honSPuoJNbzzv6wYgwGQHg37Fkk51k/edit?usp=sharing)
