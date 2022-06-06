@@ -45,7 +45,7 @@ Can we predict future price trends for stock tickers based on social media buzz?
         * Columns: comment_id (INT), ticker (VARCHAR), date (DATE), username (VARCHAR), subreddit (VARCHAR), body (TEXT), overall_sent_comp (DOUBLE), overall_sent_pos (DOUBLE), overall_sent_neg (DOUBLE), mean_t_comp_score (DOUBLE), mean_t_neg_score (DOUBLE), mean_tgt_comp_score (DOUBLE), mean_tgt_pos_score (DOUBLE), mean_tgt_neg_score (DOUBLE), verb_tense (VARCHAR), mean_custom_score (DOUBLE)
   
 ### Dashboard (link)
-   * *PLANNED*
+   * [*PLANNED*](https://public.tableau.com/app/profile/helena.claybrook/viz/StockSentimentsv2/Dashboard1?publish=yes)
    * [Storyboard via Slides](https://docs.google.com/presentation/d/1Xe5wgTKFCUUx9honSPuoJNbzzv6wYgwGQHg37Fkk51k/edit#slide=id.g12f93bee036_1_0)
 
 ### Presentation (link)
