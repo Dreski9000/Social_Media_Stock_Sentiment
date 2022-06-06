@@ -13,10 +13,6 @@ Can we predict future price trends for stock tickers based on social media buzz?
    * Daily Stock Price Data (pulled via yahoo finance API)
       * Date Range : 01/01/2018 - 05/01/2022
 
-### Communication Protocols
-Weekly meetings (2-3x per week); need-based
-Direct Message via Slack Group Messaging (daily) 
-
 **Project Tracking**
     
 *  [Google Sheets (Main Project Tracker w/ grading rubric)](https://docs.google.com/spreadsheets/d/1JCo-vFEugonDY_eLBWxoHMpitbmhl6kYNvJa8xVJeWE/edit?usp=sharing)
@@ -54,3 +50,9 @@ Direct Message via Slack Group Messaging (daily)
 
 ### Presentation (link)
 * [*IN PROGRESS*](https://docs.google.com/presentation/d/1Xe5wgTKFCUUx9honSPuoJNbzzv6wYgwGQHg37Fkk51k/edit?usp=sharing)
+
+### Results 
+  * Classifier: Deep Neural Network
+  * Predictive Score for N30d (next30days): 60%
+  * Predictive Score for N60d (next60Days): 58%
+  * Predictive Score for N60d (next90Days): 64%
