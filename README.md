@@ -71,12 +71,12 @@ Can we predict future price trends for stock tickers based on social media buzz?
 
 ### Lessons and Challenges
 * *NLP is Hard*
- - Sentiment classifier could potentially be improved by manual labelling and statistical analysis.
+  - Sentiment classifier could potentially be improved by manual labelling and statistical analysis.
 * *Bigger Data is Better*
- - Expanding the data set to other subreddits and social media platforms could strengthen our analysis.
+  - Expanding the data set to other subreddits and social media platforms could strengthen our analysis.
 * *More Features, More Problems*
- - Having more features does not necessarily make a classifier better.
- - Our classifier scores improved by trimming features.
+  - Having more features does not necessarily make a classifier better.
+  - Our classifier scores improved by trimming features.
 * *Wax On, Wax Off*
- - Gathering and sanitizing data accounts for 90% of the effort behind this project.
- - Good data has more impact than advanced algos.
+  - Gathering and sanitizing data accounts for 90% of the effort behind this project.
+  - Good data has more impact than advanced algos.
