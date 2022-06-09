@@ -11,7 +11,7 @@ Can we predict future price trends for stock tickers based on social media buzz?
    * Text data from Reddit comments (scraped primarily from r/Wallstreetbets)
       * Future versions to include r/Stocks and other related subreddits.
    * Daily Stock Price Data (pulled via yahoo finance API)
-      * Date Range : 01/01/2018 - 05/01/2022
+      * Date Range : 01/01/2018 - 12/31/2021
 
 **Project Tracking**
     
@@ -45,14 +45,38 @@ Can we predict future price trends for stock tickers based on social media buzz?
         * Columns: comment_id (INT), ticker (VARCHAR), date (DATE), username (VARCHAR), subreddit (VARCHAR), body (TEXT), overall_sent_comp (DOUBLE), overall_sent_pos (DOUBLE), overall_sent_neg (DOUBLE), mean_t_comp_score (DOUBLE), mean_t_neg_score (DOUBLE), mean_tgt_comp_score (DOUBLE), mean_tgt_pos_score (DOUBLE), mean_tgt_neg_score (DOUBLE), verb_tense (VARCHAR), mean_custom_score (DOUBLE)
   
 ### Dashboard (link)
-   * [*PLANNED*](https://public.tableau.com/app/profile/helena.claybrook/viz/StockSentimentsv2/Dashboard1?publish=yes)
-   * [Storyboard via Slides](https://docs.google.com/presentation/d/1Xe5wgTKFCUUx9honSPuoJNbzzv6wYgwGQHg37Fkk51k/edit#slide=id.g12f93bee036_1_0)
+   * [*TABLEAU*](https://public.tableau.com/app/profile/helena.claybrook/viz/StockSentimentsv2/Dashboard1?publish=yes)
 
 ### Presentation (link)
-* [*IN PROGRESS*](https://docs.google.com/presentation/d/1Xe5wgTKFCUUx9honSPuoJNbzzv6wYgwGQHg37Fkk51k/edit?usp=sharing)
+* [*Social Media Sentiment Analysis*](https://docs.google.com/presentation/d/1Xe5wgTKFCUUx9honSPuoJNbzzv6wYgwGQHg37Fkk51k/edit?usp=sharing)
 
-### Results 
-  * Classifier: Deep Neural Network
-  * Predictive Score for N30d (next30days): 60%
-  * Predictive Score for N60d (next60Days): 58%
-  * Predictive Score for N60d (next90Days): 64%
+### Prediction Model Results 
+  * *Classifier X Date Range Matrix*
+
+
+|                     |    Avg Price N30d   |    Avg Price N60d   |    Avg Price N90d   |
+| ------------------- | ------------------- | ------------------- | ------------------- |
+| Logistic Regression |         58%         |         50%         |          50%        |
+| Random Forest       |         65%         |         61%         |          61%        |
+| Ada Boost           |         59%         |         54%         |          52%        |
+| Deep Network        |         60%         |         59%         |          64%        |  
+
+
+### Visualizations
+![Sentiment vs Closing Price](https://raw.githubusercontent.com/Dreski9000/Social_Media_Stock_Sentiment/main/Visualization/overallsentimentbyclosingprice.png)
+
+![Comments by Volume Heatmap](https://raw.githubusercontent.com/Dreski9000/Social_Media_Stock_Sentiment/main/Visualization/monthlycommentsbyvolume.png)
+
+![Comment Volume vs Trading Volume](https://raw.githubusercontent.com/Dreski9000/Social_Media_Stock_Sentiment/main/Visualization/%24oftotalvolumevstotalcount.png)
+
+### Lessons and Challenges
+* *NLP is Hard*
+ - Sentiment classifier could potentially be improved by manual labelling and statistical analysis.
+* *Bigger Data is Better*
+ - Expanding the data set to other subreddits and social media platforms could strengthen our analysis.
+* *More Features, More Problems*
+ - Having more features does not necessarily make a classifier better.
+ - Our classifier scores improved by trimming features.
+* *Wax On, Wax Off
+ - Gathering and sanitizing data accounts for 90% of the effort behind this project.
+ - Good data has more impact than advanced algos.
