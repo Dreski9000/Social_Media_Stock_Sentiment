@@ -29,8 +29,7 @@ Can we predict future price trends for stock tickers based on social media buzz?
       * NLP Sentiment scores via SentimentIntenistyAnalyzer, Vader (NLTK module); custom scores and additional features
       * Relevant files: stock_sentiment_etl.ipynb
    * Machine Learning & Classifiers
-      * Deep Neural Network
-      * [Future]: Gradient Boost, Random Forest, Bag of Words
+      * Logistic Regression, AdaBoost, Random Forest, Deep Neural Network
       * What are we trying to predict?
           - Average Price over (N28d, N60d N90d)
           - Binary classification: does the price move up or down?
